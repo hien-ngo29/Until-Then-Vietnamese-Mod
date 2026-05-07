@@ -1,0 +1,14 @@
+{
+    "$ D RidelGonzales mode follow": "$ D RidelGonzales mode follow",
+    "$ D RidelGonzales mode roam": "$ D RidelGonzales mode roam",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ start_short Exploration_Intro": "$ start_short Exploration_Intro",
+    "$ to CamMarkPlane1_StandCatears": "$ to CamMarkPlane1_StandCatears",
+    "$ wait 1": "$ wait 1",
+    "$ wait_for all_games_finished": "$ wait_for all_games_finished",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

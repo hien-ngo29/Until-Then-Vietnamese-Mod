@@ -1,0 +1,18 @@
+{
+    "$ D scene activity bike": "$ D scene activity bike",
+    "$ D scene lighting afternoon": "$ D scene lighting afternoon",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ play_sound MusicYehet": "$ play_sound MusicYehet",
+    "$ play_sound Riding": "$ play_sound Riding",
+    "$ play_sound SeaWaves": "$ play_sound SeaWaves",
+    "$ start --wait \"5.6.Bike.1d\"": "$ start --wait \"5.6.Bike.1d\"",
+    "$ stop_sound MusicYehet": "$ stop_sound MusicYehet",
+    "$ stop_sound Riding": "$ stop_sound Riding",
+    "$ stop_sound SeaWaves": "$ stop_sound SeaWaves",
+    "$ to CamBike": "$ to CamBike",
+    "$ wait 2": "$ wait 2",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

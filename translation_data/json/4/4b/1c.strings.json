@@ -1,0 +1,17 @@
+{
+    "\"": "\"",
+    "$ emit chat_finished": "$ emit chat_finished",
+    "$ online -Louise": "$ online -Louise",
+    "$ pass": "$ pass",
+    "$ thought \"": "$ thought \"",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 2": "$ wait 2",
+    "Mark: Like we knew each other from before!": "Mark: Like we knew each other from before!",
+    "Mark: Louise are you there?!": "Mark: Louise are you there?!",
+    "Mark: Nicole felt it too": "Mark: Nicole felt it too",
+    "Mark: She confirmed it!!": "Mark: She confirmed it!!",
+    "Mark: You were right": "Mark: You were right",
+    "characters: { \"Mark\": \"MarkBorja\", \"Louise\": \"LouiseOrdunia\" }": "characters: { \"Mark\": \"MarkBorja\", \"Louise\": \"LouiseOrdunia\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

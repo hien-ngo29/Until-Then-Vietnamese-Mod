@@ -1,0 +1,8 @@
+{
+    "$ D scene picture_frame_1_visible true": "$ D scene picture_frame_1_visible true",
+    "$ pass": "$ pass",
+    "$ start --wait \"7.4a.Entrance.1d\"": "$ start --wait \"7.4a.Entrance.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,20 @@
+{
+    "$ emit chat_1c_finished": "$ emit chat_1c_finished",
+    "$ end_instant": "$ end_instant",
+    "$ pass": "$ pass",
+    "$ set_online": "$ set_online",
+    "$ start_instant": "$ start_instant",
+    "$ wait 3": "$ wait 3",
+    "$ wait 8": "$ wait 8",
+    "Mark: I'm here": "Mark: I'm here",
+    "Mark: More roads will break. Provinces will become inaccessible": "Mark: More roads will break. Provinces will become inaccessible",
+    "Mark: Nicole, we have to assume the worst case": "Mark: Nicole, we have to assume the worst case",
+    "Mark: We'd have less transportation options every time we start over": "Mark: We'd have less transportation options every time we start over",
+    "Nicole: I'll meet you there then": "Nicole: I'll meet you there then",
+    "Nicole: I'll take care of something": "Nicole: I'll take care of something",
+    "Nicole: You go first": "Nicole: You go first",
+    "Nicole: You're right, it makes sense now": "Nicole: You're right, it makes sense now",
+    "characters: {\"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\"}": "characters: {\"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

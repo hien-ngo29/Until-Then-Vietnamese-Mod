@@ -1,0 +1,10 @@
+{
+    "$ pass": "$ pass",
+    "$ set_player_target TargetWrongWay1": "$ set_player_target TargetWrongWay1",
+    ":: ": ":: ",
+    "Convenience store's not that way.": "Convenience store's not that way.",
+    "I shouldn't miss this rendezvous.": "I shouldn't miss this rendezvous.",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

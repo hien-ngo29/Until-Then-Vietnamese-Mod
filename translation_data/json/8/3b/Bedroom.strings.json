@@ -1,0 +1,17 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene envi bedroom": "$ D scene envi bedroom",
+    "$ F \"": "$ F \"",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ start --wait \"8.3b.Bedroom.1d\"": "$ start --wait \"8.3b.Bedroom.1d\"",
+    "$ wait 1.5": "$ wait 1.5",
+    "CathyPortillo": "CathyPortillo",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

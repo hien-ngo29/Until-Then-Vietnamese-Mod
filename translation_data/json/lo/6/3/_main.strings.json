@@ -1,0 +1,11 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Collision": "$ start_skit --wait Collision",
+    "$ start_skit --wait Encounter": "$ start_skit --wait Encounter",
+    "$ start_skit --wait Explore": "$ start_skit --wait Explore",
+    "$ start_skit --wait Focus": "$ start_skit --wait Focus",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

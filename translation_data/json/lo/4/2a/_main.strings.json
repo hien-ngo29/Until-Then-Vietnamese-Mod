@@ -1,0 +1,12 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait ApproachCathy": "$ start_skit --wait ApproachCathy",
+    "$ start_skit --wait ApproachKate": "$ start_skit --wait ApproachKate",
+    "$ start_skit --wait Elevator": "$ start_skit --wait Elevator",
+    "$ start_skit --wait MarkExplore": "$ start_skit --wait MarkExplore",
+    "$ start_skit --wait NicoleExplore": "$ start_skit --wait NicoleExplore",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

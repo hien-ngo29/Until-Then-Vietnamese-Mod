@@ -1,0 +1,12 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ set_time 1415998583": "$ set_time 1415998583",
+    "$ start_skit --wait Outro": "$ start_skit --wait Outro",
+    "$ start_skit --wait PhoneChat": "$ start_skit --wait PhoneChat",
+    "$ start_skit --wait PhoneFeed": "$ start_skit --wait PhoneFeed",
+    "character_props: { \"MarkBorja\": { \"bub_color\": \"#111\", \"bub_text_color\": \"#fff\" }}": "character_props: { \"MarkBorja\": { \"bub_color\": \"#111\", \"bub_text_color\": \"#fff\" }}",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,10 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait ClubIntro": "$ start_skit --wait ClubIntro",
+    "$ start_skit --wait PlayPiano": "$ start_skit --wait PlayPiano",
+    "$ start_skit --wait Registration": "$ start_skit --wait Registration",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

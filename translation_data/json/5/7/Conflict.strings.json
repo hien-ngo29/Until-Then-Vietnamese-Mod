@@ -1,0 +1,17 @@
+{
+    "$ ": "$ ",
+    "$ D %Mark look_at X": "$ D %Mark look_at X",
+    "$ D %Mark with X": "$ D %Mark with X",
+    "$ F %Mark worried": "$ F %Mark worried",
+    "$ fade_in": "$ fade_in",
+    "$ pass": "$ pass",
+    "$ play_sound CreakyAscent": "$ play_sound CreakyAscent",
+    "$ start --wait \"5.7.Conflict.1d\"": "$ start --wait \"5.7.Conflict.1d\"",
+    "$ to CamWalk": "$ to CamWalk",
+    "$ wait 3": "$ wait 3",
+    "$ wait_for found_nicole": "$ wait_for found_nicole",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,8 @@
+{
+    "$ D scene envi house": "$ D scene envi house",
+    "$ pass": "$ pass",
+    "$ start --wait \"3.3b.Gametime.1d\"": "$ start --wait \"3.3b.Gametime.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,14 @@
+{
+    "$ D scene envi LouiseRoom": "$ D scene envi LouiseRoom",
+    "$ pass": "$ pass",
+    "$ play --no-wait simulated_talking": "$ play --no-wait simulated_talking",
+    "$ play CamMain_pan": "$ play CamMain_pan",
+    "$ thought \"We'll never truly understand someone else.[.] Not entirely.\"": "$ thought \"We'll never truly understand someone else.[.] Not entirely.\"",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 0.25": "$ wait 0.25",
+    "$ wait 1": "$ wait 1",
+    "$ wait 6": "$ wait 6",
+    "characters: { \"Mark\": \"MarkBorja\"}": "characters: { \"Mark\": \"MarkBorja\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

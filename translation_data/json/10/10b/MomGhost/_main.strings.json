@@ -1,0 +1,23 @@
+{
+    " concernedteary": " concernedteary",
+    " look_at X": " look_at X",
+    " look_at r": " look_at r",
+    " positive": " positive",
+    " with X": " with X",
+    " with holdable": " with holdable",
+    "$ D ": "$ D ",
+    "$ D scene envi white_void": "$ D scene envi white_void",
+    "$ F ": "$ F ",
+    "$ pass": "$ pass",
+    "$ play flash_in": "$ play flash_in",
+    "$ start --wait \"10.10b.MomGhost.1d\"": "$ start --wait \"10.10b.MomGhost.1d\"",
+    "$ start_short MomGhost_Intro": "$ start_short MomGhost_Intro",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait_for mom_seen": "$ wait_for mom_seen",
+    "MarkMom": "MarkMom",
+    "PreteenMark": "PreteenMark",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "duration: 0.2": "duration: 0.2",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

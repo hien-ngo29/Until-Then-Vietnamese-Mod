@@ -1,0 +1,19 @@
+{
+    "$ D MarkBorja with phone": "$ D MarkBorja with phone",
+    "$ F MarkBorja default": "$ F MarkBorja default",
+    "$ F NicoleLacsamana concerned": "$ F NicoleLacsamana concerned",
+    "$ hide_phone": "$ hide_phone",
+    "$ pass": "$ pass",
+    "$ play nicole_walks_in": "$ play nicole_walks_in",
+    "$ push_named \"/chat\"": "$ push_named \"/chat\"",
+    "$ show_phone": "$ show_phone",
+    "$ start \"lo.6.3.Encounter.1c\"": "$ start \"lo.6.3.Encounter.1c\"",
+    "$ start --wait \"lo.6.3.Encounter.1d\"": "$ start --wait \"lo.6.3.Encounter.1d\"",
+    "$ to CamMarkPhone": "$ to CamMarkPhone",
+    "$ wait_for nicole_chat_finished": "$ wait_for nicole_chat_finished",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "hide_back_btn: true": "hide_back_btn: true",
+    "id: \"lo.6.3.Encounter.1c\"": "id: \"lo.6.3.Encounter.1c\"",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

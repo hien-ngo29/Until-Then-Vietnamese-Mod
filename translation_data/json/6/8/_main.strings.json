@@ -1,0 +1,11 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Rainfall": "$ start_skit --wait Rainfall",
+    "$ start_skit --wait RidelCathyConvo": "$ start_skit --wait RidelCathyConvo",
+    "$ start_skit --wait RidelConvo": "$ start_skit --wait RidelConvo",
+    "$ start_skit --wait StreetWalk": "$ start_skit --wait StreetWalk",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

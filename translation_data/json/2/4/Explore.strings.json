@@ -1,0 +1,18 @@
+{
+    "$ D %Mark with X": "$ D %Mark with X",
+    "$ D scene has_setup_on_enter true": "$ D scene has_setup_on_enter true",
+    "$ D scene part FreeExplore1": "$ D scene part FreeExplore1",
+    "$ D scene part WipePicture": "$ D scene part WipePicture",
+    "$ D scene picture_frame_1_visible true": "$ D scene picture_frame_1_visible true",
+    "$ F %Mark": "$ F %Mark",
+    "$ fade_in": "$ fade_in",
+    "$ pass": "$ pass",
+    "$ start --wait \"2.4.Explore.1d\"": "$ start --wait \"2.4.Explore.1d\"",
+    "$ to MainLiving": "$ to MainLiving",
+    "$ wait 1": "$ wait 1",
+    "$ wait_for item_interacted": "$ wait_for item_interacted",
+    "$ wait_for start_wipe_picture": "$ wait_for start_wipe_picture",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

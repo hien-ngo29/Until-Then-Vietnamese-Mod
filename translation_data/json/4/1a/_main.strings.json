@@ -1,0 +1,20 @@
+{
+    "$ D scene cathy_sit true": "$ D scene cathy_sit true",
+    "$ D scene louise_sit false": "$ D scene louise_sit false",
+    "$ D scene mark_sit false": "$ D scene mark_sit false",
+    "$ D scene ryan_sit true": "$ D scene ryan_sit true",
+    "$ F %Mark default": "$ F %Mark default",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start --wait \"4.1a.1d\"": "$ start --wait \"4.1a.1d\"",
+    "$ start --wait \"4.1a.2d\"": "$ start --wait \"4.1a.2d\"",
+    "$ start_short intro_quip": "$ start_short intro_quip",
+    "$ stop CathyRyan_arguing": "$ stop CathyRyan_arguing",
+    "$ stop GossipGirls_talking": "$ stop GossipGirls_talking",
+    "$ wait 2": "$ wait 2",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "$ wait_for sit": "$ wait_for sit",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

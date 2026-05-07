@@ -1,0 +1,16 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait EventStart": "$ start_skit --wait EventStart",
+    "$ start_skit --wait Intro": "$ start_skit --wait Intro",
+    "$ start_skit --wait JudgesEntrance": "$ start_skit --wait JudgesEntrance",
+    "$ start_skit --wait JustinPerf": "$ start_skit --wait JustinPerf",
+    "$ start_skit --wait MarkPerf": "$ start_skit --wait MarkPerf",
+    "$ start_skit --wait PianoEnd": "$ start_skit --wait PianoEnd",
+    "$ start_skit --wait PianoVoid": "$ start_skit --wait PianoVoid",
+    "$ start_skit --wait PreMarkPerf": "$ start_skit --wait PreMarkPerf",
+    "$ start_skit --wait SamPerf": "$ start_skit --wait SamPerf",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

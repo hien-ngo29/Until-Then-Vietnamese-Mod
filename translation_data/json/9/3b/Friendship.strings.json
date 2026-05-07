@@ -1,0 +1,18 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene envi house": "$ D scene envi house",
+    "$ F \"": "$ F \"",
+    "$ fade_in": "$ fade_in",
+    "$ pass": "$ pass",
+    "$ start --wait \"9.3b.Friendship.1d\"": "$ start --wait \"9.3b.Friendship.1d\"",
+    "$ to CamC3D_Table": "$ to CamC3D_Table",
+    "CathyPortillo": "CathyPortillo",
+    "MarkBorja": "MarkBorja",
+    "RidelGonzales": "RidelGonzales",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

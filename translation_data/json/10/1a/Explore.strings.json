@@ -1,0 +1,12 @@
+{
+    " ": " ",
+    " look_at ": " look_at ",
+    "$ D ": "$ D ",
+    "$ F ": "$ F ",
+    "$ pass": "$ pass",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait_for read_letter": "$ wait_for read_letter",
+    "characters: { \"Louise\": \"LouiseOrdunia\" }": "characters: { \"Louise\": \"LouiseOrdunia\" }",
+    "player: \"Louise\"": "player: \"Louise\"",
+    "type: \"scene\"": "type: \"scene\""
+}

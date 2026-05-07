@@ -1,0 +1,16 @@
+{
+    "$ D scene chess_state opening": "$ D scene chess_state opening",
+    "$ D scene npc_group_1_visible true": "$ D scene npc_group_1_visible true",
+    "$ D scene npc_group_2_visible true": "$ D scene npc_group_2_visible true",
+    "$ F %Cathy positiveactive": "$ F %Cathy positiveactive",
+    "$ F %Mark default": "$ F %Mark default",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ start_short \"intro\"": "$ start_short \"intro\"",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "$ wait_for found_louise": "$ wait_for found_louise",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

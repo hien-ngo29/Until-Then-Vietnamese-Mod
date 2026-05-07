@@ -1,0 +1,14 @@
+{
+    "$ D RidelGonzales with setupcamera": "$ D RidelGonzales with setupcamera",
+    "$ F RidelGonzales neutral": "$ F RidelGonzales neutral",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Acting": "$ start_skit --wait Acting",
+    "$ start_skit --wait CathyEnter": "$ start_skit --wait CathyEnter",
+    "$ start_skit --wait Explore": "$ start_skit --wait Explore",
+    "$ start_skit --wait PostActing": "$ start_skit --wait PostActing",
+    "$ wait 2": "$ wait 2",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

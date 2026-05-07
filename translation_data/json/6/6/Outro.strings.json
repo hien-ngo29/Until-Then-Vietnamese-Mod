@@ -1,0 +1,19 @@
+{
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ play --no-wait suppress_sfx": "$ play --no-wait suppress_sfx",
+    "$ play exit": "$ play exit",
+    "$ set_anim %Mark static": "$ set_anim %Mark static",
+    "$ start_short --no-wait thoughts": "$ start_short --no-wait thoughts",
+    "$ to CamOutside": "$ to CamOutside",
+    "$ to CamPiano": "$ to CamPiano",
+    "$ wait 0": "$ wait 0",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 1": "$ wait 1",
+    "$ wait 1.5": "$ wait 1.5",
+    "character_props: { \"MarkBorja\": { \"bub_color\": \"#111\", \"bub_text_color\": \"#fff\" }}": "character_props: { \"MarkBorja\": { \"bub_color\": \"#111\", \"bub_text_color\": \"#fff\" }}",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

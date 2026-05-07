@@ -1,0 +1,7 @@
+{
+    "$ pass": "$ pass",
+    "$ start --wait \"1.8.Rainfall.1d\"": "$ start --wait \"1.8.Rainfall.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

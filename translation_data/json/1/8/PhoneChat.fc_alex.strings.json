@@ -1,0 +1,12 @@
+{
+    "$ emit chat_finished": "$ emit chat_finished",
+    "$ pass": "$ pass",
+    "$ wait 1": "$ wait 1",
+    "Alex: and who are u to share my pic? ": "Alex: and who are u to share my pic? ",
+    "Alex: like do i[.] even know u???": "Alex: like do i[.] even know u???",
+    "Alex: lol what a creep": "Alex: lol what a creep",
+    "characters: { \"Mark\": \"MarkBorja\", \"Alex\": \"AlexMiranda\" }": "characters: { \"Mark\": \"MarkBorja\", \"Alex\": \"AlexMiranda\" }",
+    "notify: 1": "notify: 1",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

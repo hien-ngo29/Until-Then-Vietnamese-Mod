@@ -1,0 +1,22 @@
+{
+    "$ ": "$ ",
+    "$ D scene Mom2_finished true": "$ D scene Mom2_finished true",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ push_focus F0": "$ push_focus F0",
+    "$ start_skit --wait Construction": "$ start_skit --wait Construction",
+    "$ start_skit --wait Ending": "$ start_skit --wait Ending",
+    "$ start_skit --wait Forest": "$ start_skit --wait Forest",
+    "$ start_skit --wait Highway": "$ start_skit --wait Highway",
+    "$ start_skit --wait Mom1": "$ start_skit --wait Mom1",
+    "$ start_skit --wait Mom2": "$ start_skit --wait Mom2",
+    "$ start_skit --wait Mom3": "$ start_skit --wait Mom3",
+    "$ start_skit --wait Sidewalk": "$ start_skit --wait Sidewalk",
+    "NOP": "NOP",
+    "ch5sc10b/goto_forest": "ch5sc10b/goto_forest",
+    "ch5sc10b/mom1": "ch5sc10b/mom1",
+    "ch5sc10b/mom2": "ch5sc10b/mom2",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

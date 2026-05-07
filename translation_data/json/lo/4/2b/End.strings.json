@@ -1,0 +1,12 @@
+{
+    "$ D scene envi cliffside": "$ D scene envi cliffside",
+    "$ fade_out 0": "$ fade_out 0",
+    "$ pass": "$ pass",
+    "$ play CamRun_main": "$ play CamRun_main",
+    "$ stop_sound MusicEsnet": "$ stop_sound MusicEsnet",
+    "$ to CamRun": "$ to CamRun",
+    "$ wait 0": "$ wait 0",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

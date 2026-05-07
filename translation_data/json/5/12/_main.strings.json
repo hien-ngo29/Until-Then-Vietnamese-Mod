@@ -1,0 +1,12 @@
+{
+    "$ D scene flashback_finished false": "$ D scene flashback_finished false",
+    "$ next_scene --no-load-screen": "$ next_scene --no-load-screen",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Discovery": "$ start_skit --wait Discovery",
+    "$ start_skit --wait Ending": "$ start_skit --wait Ending",
+    "$ start_skit --wait Flashback": "$ start_skit --wait Flashback",
+    "$ start_skit --wait Intro": "$ start_skit --wait Intro",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

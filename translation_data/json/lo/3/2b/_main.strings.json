@@ -1,0 +1,15 @@
+{
+    "\"": "\"",
+    "$ F NicoleLacsamana neutral": "$ F NicoleLacsamana neutral",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start --wait \"lo.3.2b.1d\"": "$ start --wait \"lo.3.2b.1d\"",
+    "$ thought \"": "$ thought \"",
+    "$ to CamWalkLiving": "$ to CamWalkLiving",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "$ wait_for start_piano": "$ wait_for start_piano",
+    "Mom and dad did all they could so we could start over.": "Mom and dad did all they could so we could start over.",
+    "characters: { \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Nicole\"": "player: \"Nicole\"",
+    "type: \"scene\"": "type: \"scene\""
+}

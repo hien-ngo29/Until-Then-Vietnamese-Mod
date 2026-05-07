@@ -1,0 +1,23 @@
+{
+    " smirk": " smirk",
+    " true": " true",
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ F ": "$ F ",
+    "$ F \"": "$ F \"",
+    "$ fade_out": "$ fade_out",
+    "$ flip_h ": "$ flip_h ",
+    "$ pass": "$ pass",
+    "$ thought \"Oh man.\"": "$ thought \"Oh man.\"",
+    "$ thought \"One of these days I have to go home early.\"": "$ thought \"One of these days I have to go home early.\"",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 3": "$ wait 3",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "$ wait_for exit": "$ wait_for exit",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

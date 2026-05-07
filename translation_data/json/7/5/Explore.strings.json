@@ -1,0 +1,15 @@
+{
+    "$ pass": "$ pass",
+    "$ play camera_pan_right": "$ play camera_pan_right",
+    "$ play_sound CameraSetup": "$ play_sound CameraSetup",
+    "$ pop_focus F0": "$ pop_focus F0",
+    "$ push_focus F0": "$ push_focus F0",
+    "$ start --wait \"7.5.Explore.1d\"": "$ start --wait \"7.5.Explore.1d\"",
+    "$ start_short intro": "$ start_short intro",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "$ wait_for found_ridel": "$ wait_for found_ridel",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

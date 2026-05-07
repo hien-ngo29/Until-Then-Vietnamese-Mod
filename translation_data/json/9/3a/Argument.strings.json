@@ -1,0 +1,22 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene cathy_sit false": "$ D scene cathy_sit false",
+    "$ D scene mark_sit false": "$ D scene mark_sit false",
+    "$ F \"": "$ F \"",
+    "$ F CathyPortillo activepositive": "$ F CathyPortillo activepositive",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out 2.5": "$ fade_out 2.5",
+    "$ pass": "$ pass",
+    "$ play_sound GateOpenClose": "$ play_sound GateOpenClose",
+    "$ start --wait \"9.3a.Argument.1d\"": "$ start --wait \"9.3a.Argument.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 3": "$ wait 3",
+    "CathyPortillo": "CathyPortillo",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

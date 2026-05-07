@@ -1,0 +1,9 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start --wait \"7.2c.1d\"": "$ start --wait \"7.2c.1d\"",
+    "$ wait 1": "$ wait 1",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

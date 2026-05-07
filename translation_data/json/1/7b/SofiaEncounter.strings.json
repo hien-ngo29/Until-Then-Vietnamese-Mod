@@ -1,0 +1,7 @@
+{
+    "$ pass": "$ pass",
+    "$ start --wait \"1.7b.SofiaEncounter.1d\"": "$ start --wait \"1.7b.SofiaEncounter.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\" }": "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

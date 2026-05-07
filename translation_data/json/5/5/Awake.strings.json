@@ -1,0 +1,19 @@
+{
+    " ": " ",
+    " look_at ": " look_at ",
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D ": "$ D ",
+    "$ D \"": "$ D \"",
+    "$ F ": "$ F ",
+    "$ F \"": "$ F \"",
+    "$ pass": "$ pass",
+    "$ start --wait \"5.5.Awake.1d\"": "$ start --wait \"5.5.Awake.1d\"",
+    "$ thought \"": "$ thought \"",
+    "MarkBorja": "MarkBorja",
+    "NicoleLacsamana": "NicoleLacsamana",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

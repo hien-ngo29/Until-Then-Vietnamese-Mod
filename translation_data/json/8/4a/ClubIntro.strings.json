@@ -1,0 +1,19 @@
+{
+    "$ D Justin look_at l": "$ D Justin look_at l",
+    "$ D NicoleLacsamana mode standby": "$ D NicoleLacsamana mode standby",
+    "$ D Sam look_at r": "$ D Sam look_at r",
+    "$ D scene part free_roam_1": "$ D scene part free_roam_1",
+    "$ D scene setting ClubroomPiano": "$ D scene setting ClubroomPiano",
+    "$ F Justin sittyping": "$ F Justin sittyping",
+    "$ F Sam rf_default": "$ F Sam rf_default",
+    "$ pass": "$ pass",
+    "$ play_sound KeyboardTyping": "$ play_sound KeyboardTyping",
+    "$ play_sound Snoring": "$ play_sound Snoring",
+    "$ start --wait \"8.4a.ClubIntro.1d\"": "$ start --wait \"8.4a.ClubIntro.1d\"",
+    "$ stop_sound Snoring": "$ stop_sound Snoring",
+    "$ to CamFollow": "$ to CamFollow",
+    "$ wait_for beside_nicole": "$ wait_for beside_nicole",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

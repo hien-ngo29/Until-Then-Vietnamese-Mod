@@ -1,0 +1,11 @@
+{
+    "$ D scene envi Overhang": "$ D scene envi Overhang",
+    "$ pass": "$ pass",
+    "$ play_sound Fire": "$ play_sound Fire",
+    "$ play_sound Overhang": "$ play_sound Overhang",
+    "$ start --wait \"lo.9.Overhang.1d\"": "$ start --wait \"lo.9.Overhang.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

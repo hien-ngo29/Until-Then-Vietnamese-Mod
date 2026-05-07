@@ -1,0 +1,14 @@
+{
+    "$ F MarkBorja determined": "$ F MarkBorja determined",
+    "$ F NicoleLacsamana serious": "$ F NicoleLacsamana serious",
+    "$ pass": "$ pass",
+    "$ set_player_target PtRightPath": "$ set_player_target PtRightPath",
+    "$ start --wait \"lo.7.3.FindNicole.1d\"": "$ start --wait \"lo.7.3.FindNicole.1d\"",
+    "$ start_short --no-wait nicole_shout": "$ start_short --no-wait nicole_shout",
+    "$ to CamWalk": "$ to CamWalk",
+    "$ wait 0.1": "$ wait 0.1",
+    "$ wait_for found_nicole": "$ wait_for found_nicole",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

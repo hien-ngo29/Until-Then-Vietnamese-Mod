@@ -1,0 +1,9 @@
+{
+    "$ D scene world_visible false": "$ D scene world_visible false",
+    "$ pass": "$ pass",
+    "$ start --wait \"lo.11.Intro.1d\"": "$ start --wait \"lo.11.Intro.1d\"",
+    "$ to CamMark": "$ to CamMark",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

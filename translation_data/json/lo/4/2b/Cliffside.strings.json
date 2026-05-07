@@ -1,0 +1,14 @@
+{
+    "$ D scene envi cliffside": "$ D scene envi cliffside",
+    "$ pass": "$ pass",
+    "$ play --no-wait CamRun_main": "$ play --no-wait CamRun_main",
+    "$ play CamStandUp_standup": "$ play CamStandUp_standup",
+    "$ play CamStandUp_truck": "$ play CamStandUp_truck",
+    "$ play_sound MusicEsnet": "$ play_sound MusicEsnet",
+    "$ say_timed %Mark 2.0 \"[shake rate=48 level=16]Cath!![/shake]\"": "$ say_timed %Mark 2.0 \"[shake rate=48 level=16]Cath!![/shake]\"",
+    "$ to CamRun": "$ to CamRun",
+    "$ to CamStandUp": "$ to CamStandUp",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,16 @@
+{
+    "$ fade_out": "$ fade_out",
+    "$ hide_phone": "$ hide_phone",
+    "$ pass": "$ pass",
+    "$ push_named \"/chat/home\"": "$ push_named \"/chat/home\"",
+    "$ show_phone": "$ show_phone",
+    "$ start --wait \"2.5a.Kitchen.1c\"": "$ start --wait \"2.5a.Kitchen.1c\"",
+    "$ start --wait \"2.5a.Kitchen.2c\"": "$ start --wait \"2.5a.Kitchen.2c\"",
+    "$ to SitKitchen": "$ to SitKitchen",
+    "$ wait 1": "$ wait 1",
+    "$ wait 2": "$ wait 2",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,14 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Awake": "$ start_skit --wait Awake",
+    "$ start_skit --wait Chat": "$ start_skit --wait Chat",
+    "$ start_skit --wait Gag": "$ start_skit --wait Gag",
+    "$ start_skit --wait Outro": "$ start_skit --wait Outro",
+    "$ start_skit --wait Swerve": "$ start_skit --wait Swerve",
+    "$ start_skit --wait Victims": "$ start_skit --wait Victims",
+    "$ start_skit --wait Window": "$ start_skit --wait Window",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

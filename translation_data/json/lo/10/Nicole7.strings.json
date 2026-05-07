@@ -1,0 +1,10 @@
+{
+    "$ pass": "$ pass",
+    "$ start_short Nicole7_dialogue_1": "$ start_short Nicole7_dialogue_1",
+    "$ start_short Nicole7_dialogue_2": "$ start_short Nicole7_dialogue_2",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait_for N7_dialogue_2": "$ wait_for N7_dialogue_2",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

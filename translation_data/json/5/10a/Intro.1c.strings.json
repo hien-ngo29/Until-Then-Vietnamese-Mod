@@ -1,0 +1,17 @@
+{
+    "$ emit_local chat_1c_finished": "$ emit_local chat_1c_finished",
+    "$ pass": "$ pass",
+    "$ set_online": "$ set_online",
+    "$ wait 0": "$ wait 0",
+    "$ wait 2": "$ wait 2",
+    "It's actually pretty nice": "It's actually pretty nice",
+    "Mark: Are you on the way?": "Mark: Are you on the way?",
+    "Mark: Hey I just got here": "Mark: Hey I just got here",
+    "Mark: I heard it's starting soon so": "Mark: I heard it's starting soon so",
+    "Mark: It's actually pretty nice": "Mark: It's actually pretty nice",
+    "Mark: Well it should, considering what we paid": "Mark: Well it should, considering what we paid",
+    "Prom's starting soon": "Prom's starting soon",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

@@ -1,0 +1,11 @@
+{
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ play_sound Clothes1": "$ play_sound Clothes1",
+    "$ start_short \"go_to_bedroom\"": "$ start_short \"go_to_bedroom\"",
+    "$ to MainLiving": "$ to MainLiving",
+    "$ wait_for bedroom": "$ wait_for bedroom",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

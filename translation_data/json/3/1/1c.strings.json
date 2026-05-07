@@ -1,0 +1,23 @@
+{
+    "$ end_instant": "$ end_instant",
+    "$ hide_phone": "$ hide_phone",
+    "$ pass": "$ pass",
+    "$ start_instant": "$ start_instant",
+    "$ wait 1": "$ wait 1",
+    "Louise: Even there?": "Louise: Even there?",
+    "Louise: Hey Mark": "Louise: Hey Mark",
+    "Louise: It shouldn't be hard to miss": "Louise: It shouldn't be hard to miss",
+    "Louise: It'll be fine": "Louise: It'll be fine",
+    "Louise: Just come upstairs": "Louise: Just come upstairs",
+    "Louise: Oh well, it's visiting hours anyway": "Louise: Oh well, it's visiting hours anyway",
+    "Louise: We're here at the ward on the third floor": "Louise: We're here at the ward on the third floor",
+    "Louise: Where are you?": "Louise: Where are you?",
+    "Mark: Alright on my way": "Mark: Alright on my way",
+    "Mark: Don't know how long it'll take": "Mark: Don't know how long it'll take",
+    "Mark: Front desk just told me to wait here": "Mark: Front desk just told me to wait here",
+    "Mark: Just got here": "Mark: Just got here",
+    "Mark: They seem so busy": "Mark: They seem so busy",
+    "characters: {\"Mark\": \"MarkBorja\", \"Louise\": \"LouiseOrdunia\"}": "characters: {\"Mark\": \"MarkBorja\", \"Louise\": \"LouiseOrdunia\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

@@ -1,0 +1,11 @@
+{
+    "$ D scene envi X": "$ D scene envi X",
+    "$ pass": "$ pass",
+    "$ play hide_clock": "$ play hide_clock",
+    "$ play time_loop": "$ play time_loop",
+    "$ wait 2": "$ wait 2",
+    "$ wait 3": "$ wait 3",
+    "characters: { \"Mark\": \"MarkBorja\"}": "characters: { \"Mark\": \"MarkBorja\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

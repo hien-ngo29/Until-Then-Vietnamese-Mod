@@ -1,0 +1,15 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene envi house_mark": "$ D scene envi house_mark",
+    "$ Fc \"": "$ Fc \"",
+    "$ pass": "$ pass",
+    "$ start --wait \"10.10b.MomPast.1d\"": "$ start --wait \"10.10b.MomPast.1d\"",
+    "MarkMom": "MarkMom",
+    "PreteenMark": "PreteenMark",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

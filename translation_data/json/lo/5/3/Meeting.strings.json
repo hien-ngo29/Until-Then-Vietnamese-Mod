@@ -1,0 +1,8 @@
+{
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ start --wait lo.5.3.Meeting.1d": "$ start --wait lo.5.3.Meeting.1d",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\"}": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

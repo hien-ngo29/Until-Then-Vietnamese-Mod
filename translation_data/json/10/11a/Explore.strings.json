@@ -1,0 +1,8 @@
+{
+    "$ fade_out 3": "$ fade_out 3",
+    "$ pass": "$ pass",
+    "$ wait_for memorial_ended": "$ wait_for memorial_ended",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

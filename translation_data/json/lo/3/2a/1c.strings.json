@@ -1,0 +1,11 @@
+{
+    "$ emit nicole_chat_finished": "$ emit nicole_chat_finished",
+    "$ pass": "$ pass",
+    "$ wait 1": "$ wait 1",
+    "$ wait 2": "$ wait 2",
+    "Mark: I hope so": "Mark: I hope so",
+    "Nicole: Okay. Louise might be back": "Nicole: Okay. Louise might be back",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Nicole\"": "player: \"Nicole\"",
+    "type: \"chat\"": "type: \"chat\""
+}

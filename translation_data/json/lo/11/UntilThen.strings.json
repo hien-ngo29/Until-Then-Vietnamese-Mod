@@ -1,0 +1,21 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ ": "$ ",
+    "$ D \"": "$ D \"",
+    "$ D scene world_visible true": "$ D scene world_visible true",
+    "$ F \"": "$ F \"",
+    "$ pass": "$ pass",
+    "$ start --wait \"lo.11.UntilThen.1d\"": "$ start --wait \"lo.11.UntilThen.1d\"",
+    "$ to CamFar": "$ to CamFar",
+    "$ unlock_ach ACH_MISSING_PIECE": "$ unlock_ach ACH_MISSING_PIECE",
+    "$ wait 0.5": "$ wait 0.5",
+    "MarkBorja": "MarkBorja",
+    "NOP": "NOP",
+    "NicoleLacsamana": "NicoleLacsamana",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "lo11/rhythm_perfect": "lo11/rhythm_perfect",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

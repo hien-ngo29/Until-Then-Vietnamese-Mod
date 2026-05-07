@@ -1,0 +1,9 @@
+{
+    "$ D scene envi school_dusk": "$ D scene envi school_dusk",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ start --wait \"10.9.SecA.1d\"": "$ start --wait \"10.9.SecA.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

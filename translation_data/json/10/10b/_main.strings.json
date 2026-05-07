@@ -1,0 +1,22 @@
+{
+    "$ ": "$ ",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ set_rain_intensity 0": "$ set_rain_intensity 0",
+    "$ start_skit --wait ": "$ start_skit --wait ",
+    "$ start_skit --wait Ending": "$ start_skit --wait Ending",
+    "$ start_skit --wait Highway": "$ start_skit --wait Highway",
+    "$ start_skit --wait Intro": "$ start_skit --wait Intro",
+    "$ start_skit --wait MomGhost": "$ start_skit --wait MomGhost",
+    "$ start_skit --wait MomPast": "$ start_skit --wait MomPast",
+    "$ start_skit --wait RidelPast": "$ start_skit --wait RidelPast",
+    "$ start_skit --wait Sidewalk": "$ start_skit --wait Sidewalk",
+    "Construction": "Construction",
+    "D_get scene area_chosen": "D_get scene area_chosen",
+    "Forest": "Forest",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "forest": "forest",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

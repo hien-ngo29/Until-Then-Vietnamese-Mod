@@ -1,0 +1,8 @@
+{
+    "$ pass": "$ pass",
+    "$ start --wait \"lo.9.Burst.1d\"": "$ start --wait \"lo.9.Burst.1d\"",
+    "$ to CamBurst": "$ to CamBurst",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

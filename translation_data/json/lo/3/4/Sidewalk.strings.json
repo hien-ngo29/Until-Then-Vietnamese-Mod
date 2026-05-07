@@ -1,0 +1,8 @@
+{
+    "$ D scene envi sidewalk": "$ D scene envi sidewalk",
+    "$ pass": "$ pass",
+    "$ start --wait \"lo.3.4.Sidewalk.1d\"": "$ start --wait \"lo.3.4.Sidewalk.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

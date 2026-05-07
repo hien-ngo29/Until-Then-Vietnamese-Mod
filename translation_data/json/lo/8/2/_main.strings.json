@@ -1,0 +1,9 @@
+{
+    "$ next_scene --no-load-screen": "$ next_scene --no-load-screen",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Cliffside": "$ start_skit --wait Cliffside",
+    "$ start_skit --wait WaitingShed": "$ start_skit --wait WaitingShed",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,13 @@
+{
+    " visible false": " visible false",
+    "$ D ": "$ D ",
+    "$ D scene lighting dusk": "$ D scene lighting dusk",
+    "$ pass": "$ pass",
+    "$ start --wait \"8.1.Experiment.1d\"": "$ start --wait \"8.1.Experiment.1d\"",
+    "$ stop_sound LeavesRustlingLight": "$ stop_sound LeavesRustlingLight",
+    "$ wait_for experiment": "$ wait_for experiment",
+    "RidelGonzales": "RidelGonzales",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,14 @@
+{
+    "$ emit \"start_minigame_jeepney\"": "$ emit \"start_minigame_jeepney\"",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start --wait \"6.7a.1d\"": "$ start --wait \"6.7a.1d\"",
+    "$ to MinigameJeepney": "$ to MinigameJeepney",
+    "$ wait 1": "$ wait 1",
+    "$ wait_for minigame_jeepney_finished": "$ wait_for minigame_jeepney_finished",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

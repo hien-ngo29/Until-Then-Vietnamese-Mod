@@ -1,0 +1,20 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene pool_visible false": "$ D scene pool_visible false",
+    "$ F \"": "$ F \"",
+    "$ pass": "$ pass",
+    "$ play intro": "$ play intro",
+    "$ play_sound DoorOpenClose": "$ play_sound DoorOpenClose",
+    "$ start --wait \"5.3.Intro.1d\"": "$ start --wait \"5.3.Intro.1d\"",
+    "$ to CamIntro": "$ to CamIntro",
+    "$ wait 1.5": "$ wait 1.5",
+    "$ wait 4": "$ wait 4",
+    "LouiseOrdunia": "LouiseOrdunia",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

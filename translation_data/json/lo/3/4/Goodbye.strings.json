@@ -1,0 +1,9 @@
+{
+    "$ D scene envi footbridge": "$ D scene envi footbridge",
+    "$ pass": "$ pass",
+    "$ start --wait \"lo.3.4.Goodbye.1d\"": "$ start --wait \"lo.3.4.Goodbye.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

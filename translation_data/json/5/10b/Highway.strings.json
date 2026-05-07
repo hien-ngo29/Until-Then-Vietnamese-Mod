@@ -1,0 +1,17 @@
+{
+    " _shout": " _shout",
+    " run": " run",
+    "$ D scene envi Highway": "$ D scene envi Highway",
+    "$ pass": "$ pass",
+    "$ play --reverse --clear-cache flash_in": "$ play --reverse --clear-cache flash_in",
+    "$ play_anim --force ": "$ play_anim --force ",
+    "$ set_anim --force ": "$ set_anim --force ",
+    "$ start --wait \"5.10b.Highway.1d\"": "$ start --wait \"5.10b.Highway.1d\"",
+    "$ to CamC3D_MarkIntro": "$ to CamC3D_MarkIntro",
+    "$ wait 1.5": "$ wait 1.5",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "duration: 0.2": "duration: 0.2",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

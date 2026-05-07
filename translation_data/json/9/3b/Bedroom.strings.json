@@ -1,0 +1,18 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene envi bedroom": "$ D scene envi bedroom",
+    "$ F \"": "$ F \"",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ play_sound Party": "$ play_sound Party",
+    "$ start --wait \"9.3b.Bedroom.1d\"": "$ start --wait \"9.3b.Bedroom.1d\"",
+    "$ to CamPianoBack": "$ to CamPianoBack",
+    "$ wait 2.5": "$ wait 2.5",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

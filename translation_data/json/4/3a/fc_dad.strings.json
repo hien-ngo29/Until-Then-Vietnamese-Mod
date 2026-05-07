@@ -1,0 +1,15 @@
+{
+    "\"": "\"",
+    "$ emit chat_finished": "$ emit chat_finished",
+    "$ online -Paolo": "$ online -Paolo",
+    "$ pass": "$ pass",
+    "$ thought \"": "$ thought \"",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 1": "$ wait 1",
+    "Mark: Hi dad. It's alright. I know you must be busy": "Mark: Hi dad. It's alright. I know you must be busy",
+    "Mark: Hope you get some rest this week. And yeah I'll let you know": "Mark: Hope you get some rest this week. And yeah I'll let you know",
+    "Mark: I love you too dad. Merry Christmas.[: I miss y]": "Mark: I love you too dad. Merry Christmas.[: I miss y]",
+    "characters: { \"Mark\": \"MarkBorja\", \"Paolo\": \"PaoloBorja\" }": "characters: { \"Mark\": \"MarkBorja\", \"Paolo\": \"PaoloBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

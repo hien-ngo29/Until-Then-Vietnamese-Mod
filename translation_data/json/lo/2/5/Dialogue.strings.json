@@ -1,0 +1,10 @@
+{
+    "$ D scene show_double_slit_exp true": "$ D scene show_double_slit_exp true",
+    "$ D scene show_map_with_pics true": "$ D scene show_map_with_pics true",
+    "$ pass": "$ pass",
+    "$ start --wait \"lo.2.5.Dialogue.1d\"": "$ start --wait \"lo.2.5.Dialogue.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

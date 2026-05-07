@@ -1,0 +1,7 @@
+{
+    "$ pass": "$ pass",
+    "$ start --wait \"lo.4.2a.Elevator.1d\"": "$ start --wait \"lo.4.2a.Elevator.1d\"",
+    "characters: { \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Nicole\"": "player: \"Nicole\"",
+    "type: \"scene\"": "type: \"scene\""
+}

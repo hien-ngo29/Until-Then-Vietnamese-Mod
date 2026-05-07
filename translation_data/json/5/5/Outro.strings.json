@@ -1,0 +1,17 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ F \"": "$ F \"",
+    "$ fade_out 3": "$ fade_out 3",
+    "$ pass": "$ pass",
+    "$ start --wait \"5.5.Outro.1d\"": "$ start --wait \"5.5.Outro.1d\"",
+    "$ thought \"": "$ thought \"",
+    "$ to CamMainFront": "$ to CamMainFront",
+    "MarkBorja": "MarkBorja",
+    "NicoleLacsamana": "NicoleLacsamana",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

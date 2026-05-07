@@ -1,0 +1,12 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Bedroom": "$ start_skit --wait Bedroom",
+    "$ start_skit --wait Friendship": "$ start_skit --wait Friendship",
+    "$ start_skit --wait Merry": "$ start_skit --wait Merry",
+    "$ start_skit --wait Outside": "$ start_skit --wait Outside",
+    "$ wait 3": "$ wait 3",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

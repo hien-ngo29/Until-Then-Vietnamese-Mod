@@ -1,0 +1,8 @@
+{
+    "$ D scene force_show_mark false": "$ D scene force_show_mark false",
+    "$ pass": "$ pass",
+    "$ start --wait \"lo.10.P.1d\"": "$ start --wait \"lo.10.P.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

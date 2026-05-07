@@ -1,0 +1,14 @@
+{
+    "$ F %Mark bored": "$ F %Mark bored",
+    "$ pass": "$ pass",
+    "$ play_sound Clothes3": "$ play_sound Clothes3",
+    "$ push_named \"fb://feed\"": "$ push_named \"fb://feed\"",
+    "$ show_phone": "$ show_phone",
+    "$ to CamBed": "$ to CamBed",
+    "$ wait 1.5": "$ wait 1.5",
+    "$ wait_for _phone_hidden": "$ wait_for _phone_hidden",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "status_uids: [\"75wgfsel7j2\", \"a2g8b5o9zqf\", \"uq6p859lzn\", \"4vqzwudw8\", \"p4fvefidtrs\", \"y7zbb5jcrm\", \"yolf8athdwq\", \"7d97wgvl827\", \"pq5a77bw05d\"]": "status_uids: [\"75wgfsel7j2\", \"a2g8b5o9zqf\", \"uq6p859lzn\", \"4vqzwudw8\", \"p4fvefidtrs\", \"y7zbb5jcrm\", \"yolf8athdwq\", \"7d97wgvl827\", \"pq5a77bw05d\"]",
+    "type: \"scene\"": "type: \"scene\""
+}

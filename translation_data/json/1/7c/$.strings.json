@@ -1,0 +1,16 @@
+{
+    "$ flip_h %Mark 0": "$ flip_h %Mark 0",
+    "$ pass": "$ pass",
+    "$ set_anim KuyaFishball stand": "$ set_anim KuyaFishball stand",
+    "$ set_player_target TargetWrongWay1": "$ set_player_target TargetWrongWay1",
+    "$ wait 0.5": "$ wait 0.5",
+    "Mark: How about fishball?": "Mark: How about fishball?",
+    "Mark: How about ice cream?": "Mark: How about ice cream?",
+    "Sofia: Food's over there, boy!": "Sofia: Food's over there, boy!",
+    "Sofia: Game on!": "Sofia: Game on!",
+    "Sofia: My taste buds are craving salt.": "Sofia: My taste buds are craving salt.",
+    "Sofia: Yeah!": "Sofia: Yeah!",
+    "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\" }": "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

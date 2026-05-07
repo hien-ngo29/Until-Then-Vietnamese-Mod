@@ -1,0 +1,17 @@
+{
+    " determined": " determined",
+    " with run": " with run",
+    "$ D ": "$ D ",
+    "$ D scene envi Forest": "$ D scene envi Forest",
+    "$ F ": "$ F ",
+    "$ pass": "$ pass",
+    "$ play --reverse --clear-cache flash_in": "$ play --reverse --clear-cache flash_in",
+    "$ start --wait \"5.10b.Forest.1d\"": "$ start --wait \"5.10b.Forest.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "duration: 0.5": "duration: 0.5",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\"",
+    "use_cache: false": "use_cache: false"
+}

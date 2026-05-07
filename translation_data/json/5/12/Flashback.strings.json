@@ -1,0 +1,12 @@
+{
+    "$ D scene flashback_finished true": "$ D scene flashback_finished true",
+    "$ fade_in 2": "$ fade_in 2",
+    "$ montage_next_image 0.01": "$ montage_next_image 0.01",
+    "$ pass": "$ pass",
+    "$ start --wait \"5.12.Flashback.1d\"": "$ start --wait \"5.12.Flashback.1d\"",
+    "$ to CamMontage": "$ to CamMontage",
+    "$ wait 0.5": "$ wait 0.5",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

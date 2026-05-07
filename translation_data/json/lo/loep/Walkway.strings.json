@@ -1,0 +1,8 @@
+{
+    "$ D scene envi Walkway": "$ D scene envi Walkway",
+    "$ pass": "$ pass",
+    "$ start --wait \"lo.loep.Walkway.1d\"": "$ start --wait \"lo.loep.Walkway.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\"}": "characters: { \"Mark\": \"MarkBorja\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

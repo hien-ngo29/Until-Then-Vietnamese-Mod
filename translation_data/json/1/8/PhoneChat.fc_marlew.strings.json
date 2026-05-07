@@ -1,0 +1,19 @@
+{
+    "$ emit chat_finished": "$ emit chat_finished",
+    "$ pass": "$ pass",
+    "$ wait 1": "$ wait 1",
+    "$ wait 2": "$ wait 2",
+    "I pressed it by accident": "I pressed it by accident",
+    "Mark: Apologies, won't happen again": "Mark: Apologies, won't happen again",
+    "Mark: I just realized I pressed it by accident": "Mark: I just realized I pressed it by accident",
+    "Mark: I'll take the share back": "Mark: I'll take the share back",
+    "Mark: Sorry, my bad": "Mark: Sorry, my bad",
+    "Marlew: Are you out of your mind?": "Marlew: Are you out of your mind?",
+    "Marlew: How rude of you": "Marlew: How rude of you",
+    "Marlew: Just why would you share that? ": "Marlew: Just why would you share that? ",
+    "Sorry, won't happen again": "Sorry, won't happen again",
+    "characters: { \"Mark\": \"MarkBorja\", \"Marlew\": \"MarlewAndrade\" }": "characters: { \"Mark\": \"MarkBorja\", \"Marlew\": \"MarlewAndrade\" }",
+    "notify: 1": "notify: 1",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

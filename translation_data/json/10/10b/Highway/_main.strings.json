@@ -1,0 +1,22 @@
+{
+    " _shout": " _shout",
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene envi highway": "$ D scene envi highway",
+    "$ Fc \"": "$ Fc \"",
+    "$ pass": "$ pass",
+    "$ play --reverse flash_in": "$ play --reverse flash_in",
+    "$ play_anim --force ": "$ play_anim --force ",
+    "$ start --wait \"10.10b.Highway.1d\"": "$ start --wait \"10.10b.Highway.1d\"",
+    "$ to CamC3D_MarkIntro": "$ to CamC3D_MarkIntro",
+    "$ wait 0.8": "$ wait 0.8",
+    "LouiseOrdunia": "LouiseOrdunia",
+    "MarkBorja": "MarkBorja",
+    "NicoleLacsamana": "NicoleLacsamana",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "duration: 0.2": "duration: 0.2",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

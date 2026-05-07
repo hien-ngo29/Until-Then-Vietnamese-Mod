@@ -1,0 +1,19 @@
+{
+    "$ D KateCorpuz with walk": "$ D KateCorpuz with walk",
+    "$ D scene area \"3F\"": "$ D scene area \"3F\"",
+    "$ F KateCorpuz default": "$ F KateCorpuz default",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ flip_h NicoleLacsamana false": "$ flip_h NicoleLacsamana false",
+    "$ go_if_on elevator_enter": "$ go_if_on elevator_enter",
+    "$ pass": "$ pass",
+    "$ play --no-wait kate_to_elevator": "$ play --no-wait kate_to_elevator",
+    "$ start --wait \"lo.4.2a.ApproachKate.1d\"": "$ start --wait \"lo.4.2a.ApproachKate.1d\"",
+    "$ start_short follow_kate": "$ start_short follow_kate",
+    "$ to CamFollowKate": "$ to CamFollowKate",
+    "$ wait 0.1": "$ wait 0.1",
+    "$ wait 0.5": "$ wait 0.5",
+    "characters: { \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Nicole\"": "player: \"Nicole\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,12 @@
+{
+    "$ D %Cathy forest 1": "$ D %Cathy forest 1",
+    "$ D scene envi forest": "$ D scene envi forest",
+    "$ F %Mark determined": "$ F %Mark determined",
+    "$ pass": "$ pass",
+    "$ start_short Forest_Intro": "$ start_short Forest_Intro",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait_for skit_end": "$ wait_for skit_end",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,14 @@
+{
+    "$ D %Ridel look_at r": "$ D %Ridel look_at r",
+    "$ F %Ridel angry": "$ F %Ridel angry",
+    "$ wait 0.25": "$ wait 0.25",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 1": "$ wait 1",
+    "Mark: [shake rate=32 level=8]I know we will...[.] Let's keep going.[/shake]": "Mark: [shake rate=32 level=8]I know we will...[.] Let's keep going.[/shake]",
+    "Mark: [shake rate=32 level=8]Ridel!![/shake]": "Mark: [shake rate=32 level=8]Ridel!![/shake]",
+    "Mark: [shake rate=32 level=8]We'll find her.[/shake]": "Mark: [shake rate=32 level=8]We'll find her.[/shake]",
+    "Ridel: [shake rate=32 level=8]Mark![.] Finally![/shake]": "Ridel: [shake rate=32 level=8]Mark![.] Finally![/shake]",
+    "characters: { \"Mark\": \"MarkBorja\", \"Ridel\": \"RidelGonzales\" }": "characters: { \"Mark\": \"MarkBorja\", \"Ridel\": \"RidelGonzales\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

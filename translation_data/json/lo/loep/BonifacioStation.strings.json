@@ -1,0 +1,16 @@
+{
+    "$ D AdultMark look_at X": "$ D AdultMark look_at X",
+    "$ D AdultMark look_at r": "$ D AdultMark look_at r",
+    "$ D scene envi BonifacioStation": "$ D scene envi BonifacioStation",
+    "$ F AdultMark smirk": "$ F AdultMark smirk",
+    "$ pass": "$ pass",
+    "$ play --no-wait fake_train_bounce": "$ play --no-wait fake_train_bounce",
+    "$ play simulated_phonecalling": "$ play simulated_phonecalling",
+    "$ play train_approach": "$ play train_approach",
+    "$ to CamMain": "$ to CamMain",
+    "$ to CamMark": "$ to CamMark",
+    "$ wait 1": "$ wait 1",
+    "characters: { \"Mark\": \"MarkBorja\"}": "characters: { \"Mark\": \"MarkBorja\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,14 @@
+{
+    "$ F NicoleLacsamana $walk": "$ F NicoleLacsamana $walk",
+    "$ F NicoleLacsamana default": "$ F NicoleLacsamana default",
+    "$ flip_h MarkBorja false": "$ flip_h MarkBorja false",
+    "$ pass": "$ pass",
+    "$ play nicole_to_bike": "$ play nicole_to_bike",
+    "$ wait 2": "$ wait 2",
+    "Mark: Ah, now I know what you mean by a better route.": "Mark: Ah, now I know what you mean by a better route.",
+    "Mark: Is it near enough to bike?": "Mark: Is it near enough to bike?",
+    "Nicole: Oh.": "Nicole: Oh.",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\"}": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

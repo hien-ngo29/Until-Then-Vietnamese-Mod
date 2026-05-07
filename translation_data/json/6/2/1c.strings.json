@@ -1,0 +1,15 @@
+{
+    "$ hide_phone": "$ hide_phone",
+    "$ pass": "$ pass",
+    "$ play_anim MarkHint notice": "$ play_anim MarkHint notice",
+    "$ play_sound Notification": "$ play_sound Notification",
+    "$ wait 1.5": "$ wait 1.5",
+    "Cathy: NOW": "Cathy: NOW",
+    "Cathy: come here": "Cathy: come here",
+    "Cathy: i hate you": "Cathy: i hate you",
+    "Cathy: meet me at the library!!!": "Cathy: meet me at the library!!!",
+    "Mark: I can't make the train go faster": "Mark: I can't make the train go faster",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

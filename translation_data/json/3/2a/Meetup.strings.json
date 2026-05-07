@@ -1,0 +1,18 @@
+{
+    " ": " ",
+    "$ ": "$ ",
+    "$ F ": "$ F ",
+    "$ pass": "$ pass",
+    "$ start --wait \"3.2a.Meetup.1d\"": "$ start --wait \"3.2a.Meetup.1d\"",
+    "$ start_short intro": "$ start_short intro",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "$ wait_for cathy_enter": "$ wait_for cathy_enter",
+    "CathyPortillo": "CathyPortillo",
+    "MarkBorja": "MarkBorja",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "positive": "positive",
+    "speechless": "speechless",
+    "type: \"scene\"": "type: \"scene\""
+}

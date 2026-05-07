@@ -1,0 +1,14 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Burst": "$ start_skit --wait Burst",
+    "$ start_skit --wait Classroom": "$ start_skit --wait Classroom",
+    "$ start_skit --wait Cliffside": "$ start_skit --wait Cliffside",
+    "$ start_skit --wait End": "$ start_skit --wait End",
+    "$ start_skit --wait Forest": "$ start_skit --wait Forest",
+    "$ start_skit --wait Hospital": "$ start_skit --wait Hospital",
+    "$ wait 4": "$ wait 4",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

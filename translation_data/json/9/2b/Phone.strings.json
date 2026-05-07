@@ -1,0 +1,18 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ ": "$ ",
+    "$ D \"": "$ D \"",
+    "$ F \"": "$ F \"",
+    "$ enable_vehicle false": "$ enable_vehicle false",
+    "$ pass": "$ pass",
+    "$ start --wait \"9.2b.Phone.1d\"": "$ start --wait \"9.2b.Phone.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "CathyPortillo": "CathyPortillo",
+    "MarkBorja": "MarkBorja",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

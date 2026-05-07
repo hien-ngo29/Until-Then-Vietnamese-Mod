@@ -1,0 +1,22 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene envi house": "$ D scene envi house",
+    "$ D scene hide_phone false": "$ D scene hide_phone false",
+    "$ D scene light_living_room false": "$ D scene light_living_room false",
+    "$ D scene part living_room": "$ D scene part living_room",
+    "$ F \"": "$ F \"",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ start --wait \"8.3b.LivingRoom.1d\"": "$ start --wait \"8.3b.LivingRoom.1d\"",
+    "$ to CameraLR": "$ to CameraLR",
+    "$ wait 2": "$ wait 2",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "CathyPortillo": "CathyPortillo",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

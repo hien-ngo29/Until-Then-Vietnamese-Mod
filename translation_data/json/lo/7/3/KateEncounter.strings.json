@@ -1,0 +1,9 @@
+{
+    "$ pass": "$ pass",
+    "$ play mark_walks_in": "$ play mark_walks_in",
+    "$ start --wait \"lo.7.3.KateEncounter.1d\"": "$ start --wait \"lo.7.3.KateEncounter.1d\"",
+    "$ to CamKate": "$ to CamKate",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

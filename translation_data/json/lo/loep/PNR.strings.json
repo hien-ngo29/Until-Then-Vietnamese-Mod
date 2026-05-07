@@ -1,0 +1,8 @@
+{
+    "$ D scene envi PNR": "$ D scene envi PNR",
+    "$ pass": "$ pass",
+    "$ start --wait \"lo.loep.PNR.1d\"": "$ start --wait \"lo.loep.PNR.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\"}": "characters: { \"Mark\": \"MarkBorja\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

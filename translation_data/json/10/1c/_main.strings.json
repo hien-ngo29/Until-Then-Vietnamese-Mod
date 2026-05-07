@@ -1,0 +1,9 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Bedroom": "$ start_skit --wait Bedroom",
+    "$ start_skit --wait RoofLeak": "$ start_skit --wait RoofLeak",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

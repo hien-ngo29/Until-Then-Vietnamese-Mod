@@ -1,0 +1,19 @@
+{
+    "$ D scene part inside": "$ D scene part inside",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ flip_h %Mark false": "$ flip_h %Mark false",
+    "$ pass": "$ pass",
+    "$ start_short initial": "$ start_short initial",
+    "$ thought \"I should go in now.\"": "$ thought \"I should go in now.\"",
+    "$ thought \"She's there.\"": "$ thought \"She's there.\"",
+    "$ to CamFollow": "$ to CamFollow",
+    "$ to CamFollow2": "$ to CamFollow2",
+    "$ wait 1": "$ wait 1",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "$ wait_for mark_enter": "$ wait_for mark_enter",
+    "$ wait_for stage": "$ wait_for stage",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Nicole\" : \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Nicole\" : \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

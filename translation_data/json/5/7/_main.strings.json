@@ -1,0 +1,13 @@
+{
+    "$ ": "$ ",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Conflict": "$ start_skit --wait Conflict",
+    "$ start_skit --wait FollowNicole": "$ start_skit --wait FollowNicole",
+    "$ start_skit --wait Outro": "$ start_skit --wait Outro",
+    "$ start_skit --wait Rage": "$ start_skit --wait Rage",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,21 @@
+{
+    "$ ": "$ ",
+    "$ emit chat_finished": "$ emit chat_finished",
+    "$ pass": "$ pass",
+    "$ set_online": "$ set_online",
+    "$ thought \"Don't tell me...\"": "$ thought \"Don't tell me...\"",
+    "$ thought \"No way. There is no way.\"": "$ thought \"No way. There is no way.\"",
+    "$ thought \"What?!\"": "$ thought \"What?!\"",
+    "$ wait 1": "$ wait 1",
+    "$ wait 2": "$ wait 2",
+    "$ wait 3": "$ wait 3",
+    "Mark: Mine's not looking good. Where are you?": "Mark: Mine's not looking good. Where are you?",
+    "Mark: Nicole how are things looking there?": "Mark: Nicole how are things looking there?",
+    "Mark: Nicole! Hey!": "Mark: Nicole! Hey!",
+    "NOP": "NOP",
+    "SYS: Message failed to send.": "SYS: Message failed to send.",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "hide_info_button: true": "hide_info_button: true",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

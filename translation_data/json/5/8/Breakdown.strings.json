@@ -1,0 +1,18 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene lighting MarkHouseOutside": "$ D scene lighting MarkHouseOutside",
+    "$ F \"": "$ F \"",
+    "$ pass": "$ pass",
+    "$ play --reverse _init": "$ play --reverse _init",
+    "$ play _init": "$ play _init",
+    "$ start --wait \"5.8.Breakdown.1d\"": "$ start --wait \"5.8.Breakdown.1d\"",
+    "$ to CamFrontCathy": "$ to CamFrontCathy",
+    "CathyPortillo": "CathyPortillo",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

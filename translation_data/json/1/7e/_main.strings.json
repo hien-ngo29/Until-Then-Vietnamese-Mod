@@ -1,0 +1,10 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Dejavu": "$ start_skit --wait Dejavu",
+    "$ start_skit --wait LouiseSecret": "$ start_skit --wait LouiseSecret",
+    "$ start_skit --wait Outcome": "$ start_skit --wait Outcome",
+    "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\", \"Louise\": \"LouiseOrdunia\", \"Mike\": \"MikeAguilar\" }": "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\", \"Louise\": \"LouiseOrdunia\", \"Mike\": \"MikeAguilar\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

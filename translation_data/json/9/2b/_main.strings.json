@@ -1,0 +1,12 @@
+{
+    "$ enable_vehicle true": "$ enable_vehicle true",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Fireworks": "$ start_skit --wait Fireworks",
+    "$ start_skit --wait Intro": "$ start_skit --wait Intro",
+    "$ start_skit --wait Phone": "$ start_skit --wait Phone",
+    "$ wait 3": "$ wait 3",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

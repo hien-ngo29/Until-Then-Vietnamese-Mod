@@ -1,0 +1,13 @@
+{
+    "$ D %Mark look_at dX": "$ D %Mark look_at dX",
+    "$ D %Mark with X": "$ D %Mark with X",
+    "$ F %Mark bothered": "$ F %Mark bothered",
+    "$ pass": "$ pass",
+    "$ play --no-wait _init": "$ play --no-wait _init",
+    "$ start --wait \"lo.4.2a.ApproachCathy.1d\"": "$ start --wait \"lo.4.2a.ApproachCathy.1d\"",
+    "$ to CamFollowCorridor4F": "$ to CamFollowCorridor4F",
+    "$ wait 3": "$ wait 3",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

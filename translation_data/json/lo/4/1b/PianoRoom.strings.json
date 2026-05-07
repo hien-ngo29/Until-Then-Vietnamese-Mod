@@ -1,0 +1,15 @@
+{
+    "$ D scene lighting PianoRoom": "$ D scene lighting PianoRoom",
+    "$ F NicoleLacsamana neutral": "$ F NicoleLacsamana neutral",
+    "$ fade_in": "$ fade_in",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ play_sound LeavesRustling": "$ play_sound LeavesRustling",
+    "$ start --wait \"lo.4.1b.PianoRoom.1d\"": "$ start --wait \"lo.4.1b.PianoRoom.1d\"",
+    "$ to CamWalkPiano": "$ to CamWalkPiano",
+    "$ wait 1.5": "$ wait 1.5",
+    "$ wait_for start_piano": "$ wait_for start_piano",
+    "characters: { \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Nicole\"": "player: \"Nicole\"",
+    "type: \"scene\"": "type: \"scene\""
+}

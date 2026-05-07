@@ -1,0 +1,11 @@
+{
+    "$ F NicoleLacsamana crying": "$ F NicoleLacsamana crying",
+    "$ pass": "$ pass",
+    "$ play_sound Sec1": "$ play_sound Sec1",
+    "$ start_short Nicole1_dialogue_1": "$ start_short Nicole1_dialogue_1",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

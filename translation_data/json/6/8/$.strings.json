@@ -1,0 +1,13 @@
+{
+    "$ ": "$ ",
+    "$ pass": "$ pass",
+    "$ set_player_target TargetWrongWay1": "$ set_player_target TargetWrongWay1",
+    ":: ": ":: ",
+    "Convenience store's not that way.": "Convenience store's not that way.",
+    "I shouldn't miss this rendezvous.": "I shouldn't miss this rendezvous.",
+    "NOP": "NOP",
+    "Ridel (2): Hey, you're gonna catch a cold!": "Ridel (2): Hey, you're gonna catch a cold!",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" , \"Ridel\": \"RidelGonzales\"}": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" , \"Ridel\": \"RidelGonzales\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

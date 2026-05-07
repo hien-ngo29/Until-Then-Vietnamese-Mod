@@ -1,0 +1,12 @@
+{
+    "$ ": "$ ",
+    "$ pass": "$ pass",
+    "$ wait 12": "$ wait 12",
+    "$ wait 5": "$ wait 5",
+    "Mark (2): Ugh. This isn't working.": "Mark (2): Ugh. This isn't working.",
+    "Mark (2): Why isn't this working?": "Mark (2): Why isn't this working?",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

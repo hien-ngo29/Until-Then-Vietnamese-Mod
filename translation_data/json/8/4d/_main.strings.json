@@ -1,0 +1,10 @@
+{
+    "$ fade_out_sound Music 4": "$ fade_out_sound Music 4",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start --wait \"8.4d.1d\"": "$ start --wait \"8.4d.1d\"",
+    "$ wait 3": "$ wait 3",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

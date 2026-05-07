@@ -1,0 +1,14 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Bedroom": "$ start_skit --wait Bedroom",
+    "$ start_skit --wait Discovery": "$ start_skit --wait Discovery",
+    "$ start_skit --wait Gametime": "$ start_skit --wait Gametime",
+    "$ start_skit --wait Kitchen": "$ start_skit --wait Kitchen",
+    "$ start_skit --wait KitchenMeal": "$ start_skit --wait KitchenMeal",
+    "$ start_skit --wait LivingRoom": "$ start_skit --wait LivingRoom",
+    "$ start_skit --wait Outside": "$ start_skit --wait Outside",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

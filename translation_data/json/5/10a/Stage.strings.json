@@ -1,0 +1,22 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene envi Inside": "$ D scene envi Inside",
+    "$ D scene slow_dance false": "$ D scene slow_dance false",
+    "$ F \"": "$ F \"",
+    "$ pass": "$ pass",
+    "$ play flash_in": "$ play flash_in",
+    "$ set_rain_intensity 0": "$ set_rain_intensity 0",
+    "$ start --wait \"5.10a.Stage.1d\"": "$ start --wait \"5.10a.Stage.1d\"",
+    "$ start_short --no-wait Stage_thread": "$ start_short --no-wait Stage_thread",
+    "$ thought \"": "$ thought \"",
+    "$ to CamMain": "$ to CamMain",
+    "CathyPortillo": "CathyPortillo",
+    "MarkBorja": "MarkBorja",
+    "Photographer": "Photographer",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

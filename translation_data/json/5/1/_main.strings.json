@@ -1,0 +1,15 @@
+{
+    "$ D scene lighting present": "$ D scene lighting present",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ set_time 1420403564": "$ set_time 1420403564",
+    "$ start_skit --wait Dream": "$ start_skit --wait Dream",
+    "$ start_skit --wait Ending": "$ start_skit --wait Ending",
+    "$ start_skit --wait PhoneChat": "$ start_skit --wait PhoneChat",
+    "$ start_skit --wait Practice": "$ start_skit --wait Practice",
+    "$ start_skit --wait WakeUp": "$ start_skit --wait WakeUp",
+    "$ wait 0": "$ wait 0",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

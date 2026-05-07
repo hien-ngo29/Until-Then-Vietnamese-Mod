@@ -1,0 +1,12 @@
+{
+    "$ ": "$ ",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Conversation": "$ start_skit --wait Conversation",
+    "$ start_skit --wait PostPhoto": "$ start_skit --wait PostPhoto",
+    "$ start_skit --wait Pre": "$ start_skit --wait Pre",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

@@ -1,0 +1,22 @@
+{
+    "$ change_scene --no-load-screen credits": "$ change_scene --no-load-screen credits",
+    "$ pass": "$ pass",
+    "$ start_short --wait cutscene_01": "$ start_short --wait cutscene_01",
+    "$ start_short --wait cutscene_02": "$ start_short --wait cutscene_02",
+    "$ start_skit --wait AlphaMart": "$ start_skit --wait AlphaMart",
+    "$ start_skit --wait BonifacioStation": "$ start_skit --wait BonifacioStation",
+    "$ start_skit --wait Cafe": "$ start_skit --wait Cafe",
+    "$ start_skit --wait Car": "$ start_skit --wait Car",
+    "$ start_skit --wait Clock": "$ start_skit --wait Clock",
+    "$ start_skit --wait Forest": "$ start_skit --wait Forest",
+    "$ start_skit --wait LouiseRoom": "$ start_skit --wait LouiseRoom",
+    "$ start_skit --wait Montage": "$ start_skit --wait Montage",
+    "$ start_skit --wait PNR": "$ start_skit --wait PNR",
+    "$ start_skit --wait Walkway": "$ start_skit --wait Walkway",
+    "$ unlock_ach ACH_BUTTERFLY": "$ unlock_ach ACH_BUTTERFLY",
+    "$ wait 16": "$ wait 16",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "skippable: false": "skippable: false",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,7 @@
+{
+    "$ pass": "$ pass",
+    "$ start --wait \"1.8.Stalk.1d\"": "$ start --wait \"1.8.Stalk.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

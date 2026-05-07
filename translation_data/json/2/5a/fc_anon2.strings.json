@@ -1,0 +1,17 @@
+{
+    "$ emit chat_finished": "$ emit chat_finished",
+    "$ pass": "$ pass",
+    "$ wait 1": "$ wait 1",
+    "$ wait 2": "$ wait 2",
+    "Anon: ASL?": "Anon: ASL?",
+    "Anon: Heya": "Anon: Heya",
+    "Anon: Lol": "Anon: Lol",
+    "Mark: 15 M [:Bonifacio][:Valino]Belica": "Mark: 15 M [:Bonifacio][:Valino]Belica",
+    "SYS: Stranger has disconnected": "SYS: Stranger has disconnected",
+    "SYS: Welcome to AnonChat!": "SYS: Welcome to AnonChat!",
+    "SYS: You're now chatting with a random stranger": "SYS: You're now chatting with a random stranger",
+    "characters: { \"Mark\": \"MarkBorja\", \"Anon\": \"Anonymous\" }": "characters: { \"Mark\": \"MarkBorja\", \"Anon\": \"Anonymous\" }",
+    "hide_info_button: true": "hide_info_button: true",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

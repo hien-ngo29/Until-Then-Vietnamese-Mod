@@ -1,0 +1,22 @@
+{
+    "$ fade_out": "$ fade_out",
+    "$ fade_to CamPiano": "$ fade_to CamPiano",
+    "$ pass": "$ pass",
+    "$ play --no-wait suppress_sfx": "$ play --no-wait suppress_sfx",
+    "$ play exit": "$ play exit",
+    "$ play mark_wipe_pic_frame": "$ play mark_wipe_pic_frame",
+    "$ say %Mark \"Thanks, Louise.\"": "$ say %Mark \"Thanks, Louise.\"",
+    "$ say %Mark \"V23, keep on dreaming my ass.\"": "$ say %Mark \"V23, keep on dreaming my ass.\"",
+    "$ set_anim %Mark static": "$ set_anim %Mark static",
+    "$ to CamBedSit": "$ to CamBedSit",
+    "$ to CamOutside": "$ to CamOutside",
+    "$ to CamPicFrame": "$ to CamPicFrame",
+    "$ wait 0": "$ wait 0",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 1": "$ wait 1",
+    "$ wait 2.5": "$ wait 2.5",
+    "character_props: { \"MarkBorja\": { \"bub_color\": \"#111\", \"bub_text_color\": \"#fff\" }}": "character_props: { \"MarkBorja\": { \"bub_color\": \"#111\", \"bub_text_color\": \"#fff\" }}",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

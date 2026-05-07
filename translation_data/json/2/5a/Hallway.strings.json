@@ -1,0 +1,16 @@
+{
+    "\"": "\"",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ set_player_target Bedroom": "$ set_player_target Bedroom",
+    "$ start_short after_interact": "$ start_short after_interact",
+    "$ thought \"": "$ thought \"",
+    "$ to MainLiving": "$ to MainLiving",
+    "$ wait 0.25": "$ wait 0.25",
+    "$ wait_for _player_target_reached": "$ wait_for _player_target_reached",
+    "$ wait_for sheet_music_seen": "$ wait_for sheet_music_seen",
+    "People are boring.": "People are boring.",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,9 @@
+{
+    "$ fade_out 0.01": "$ fade_out 0.01",
+    "$ pass": "$ pass",
+    "$ start --wait \"lo.6.3.Focus.1d\"": "$ start --wait \"lo.6.3.Focus.1d\"",
+    "$ wait 2": "$ wait 2",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

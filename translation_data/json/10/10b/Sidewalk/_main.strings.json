@@ -1,0 +1,23 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ ": "$ ",
+    "$ D \"": "$ D \"",
+    "$ D scene envi sidewalk": "$ D scene envi sidewalk",
+    "$ Fc \"": "$ Fc \"",
+    "$ pass": "$ pass",
+    "$ play Mark_glitch_in": "$ play Mark_glitch_in",
+    "$ play flash_in": "$ play flash_in",
+    "$ start --wait \"10.10b.Sidewalk.1d\"": "$ start --wait \"10.10b.Sidewalk.1d\"",
+    "$ wait_for next_area_chosen": "$ wait_for next_area_chosen",
+    "D_get scene MomPast_triggered": "D_get scene MomPast_triggered",
+    "LouiseOrdunia": "LouiseOrdunia",
+    "MarkBorja": "MarkBorja",
+    "NOP": "NOP",
+    "NicoleLacsamana": "NicoleLacsamana",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "duration: 0.5": "duration: 0.5",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

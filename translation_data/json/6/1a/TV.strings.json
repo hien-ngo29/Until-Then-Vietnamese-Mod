@@ -1,0 +1,19 @@
+{
+    "$ F MarkBorja triumphant": "$ F MarkBorja triumphant",
+    "$ emit start_minigame_rpg": "$ emit start_minigame_rpg",
+    "$ emit_local hide_start_btn": "$ emit_local hide_start_btn",
+    "$ pass": "$ pass",
+    "$ play --reverse turn_on_tv": "$ play --reverse turn_on_tv",
+    "$ play turn_on_tv": "$ play turn_on_tv",
+    "$ switch_sound MusicMain X": "$ switch_sound MusicMain X",
+    "$ to C3D_13": "$ to C3D_13",
+    "$ to TVScreen": "$ to TVScreen",
+    "$ to_tv_screen RpgMinigame": "$ to_tv_screen RpgMinigame",
+    "$ wait 1": "$ wait 1",
+    "$ wait 2": "$ wait 2",
+    "$ wait 3": "$ wait 3",
+    "$ wait_for minigame_rpg_finished": "$ wait_for minigame_rpg_finished",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

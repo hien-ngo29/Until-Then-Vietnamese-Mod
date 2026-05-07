@@ -1,0 +1,10 @@
+{
+    "$ D scene envi burst": "$ D scene envi burst",
+    "$ pass": "$ pass",
+    "$ start_short Burst_Main": "$ start_short Burst_Main",
+    "$ to CamC3D": "$ to CamC3D",
+    "$ wait_for_local skit_end": "$ wait_for_local skit_end",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

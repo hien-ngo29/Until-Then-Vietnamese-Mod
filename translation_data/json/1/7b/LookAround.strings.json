@@ -1,0 +1,13 @@
+{
+    "$ D %Sofia mode standby": "$ D %Sofia mode standby",
+    "$ F %Mark neutral": "$ F %Mark neutral",
+    "$ F %Sofia phone": "$ F %Sofia phone",
+    "$ Fc %Mark": "$ Fc %Mark",
+    "$ pass": "$ pass",
+    "$ switch_sound Main A": "$ switch_sound Main A",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait_for sofia_introduction_finished": "$ wait_for sofia_introduction_finished",
+    "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\" }": "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,18 @@
+{
+    "\"": "\"",
+    "$ F %Mark default": "$ F %Mark default",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ thought \"": "$ thought \"",
+    "$ to Door": "$ to Door",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "$ wait_for papers_interacted": "$ wait_for papers_interacted",
+    "Can't wait to see which ones I flopped.": "Can't wait to see which ones I flopped.",
+    "Dang it, Cath.": "Dang it, Cath.",
+    "Hey, exam results are out.": "Hey, exam results are out.",
+    "You didn't have to pull me into this.": "You didn't have to pull me into this.",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

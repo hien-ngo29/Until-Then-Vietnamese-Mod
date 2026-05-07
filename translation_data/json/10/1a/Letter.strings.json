@@ -1,0 +1,8 @@
+{
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ start --wait \"10.1a.Letter.1d\"": "$ start --wait \"10.1a.Letter.1d\"",
+    "characters: { \"Louise\": \"LouiseOrdunia\" }": "characters: { \"Louise\": \"LouiseOrdunia\" }",
+    "player: \"Louise\"": "player: \"Louise\"",
+    "type: \"scene\"": "type: \"scene\""
+}

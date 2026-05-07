@@ -1,0 +1,12 @@
+{
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ start --wait \"8.2b.AswangWorld.1d\"": "$ start --wait \"8.2b.AswangWorld.1d\"",
+    "$ to CamListener": "$ to CamListener",
+    "$ to MinigameAswangWorld": "$ to MinigameAswangWorld",
+    "$ wait 3.5": "$ wait 3.5",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

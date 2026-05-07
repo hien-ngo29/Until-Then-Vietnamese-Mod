@@ -1,0 +1,7 @@
+{
+    "$ pass": "$ pass",
+    "$ start --wait \"2.4.fd_montage\"": "$ start --wait \"2.4.fd_montage\"",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

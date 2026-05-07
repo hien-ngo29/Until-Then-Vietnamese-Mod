@@ -1,0 +1,14 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ F \"": "$ F \"",
+    "$ pass": "$ pass",
+    "$ start --wait \"lo.lopost.Wait.1d\"": "$ start --wait \"lo.lopost.Wait.1d\"",
+    "MarkBorja": "MarkBorja",
+    "PaoloBorja": "PaoloBorja",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

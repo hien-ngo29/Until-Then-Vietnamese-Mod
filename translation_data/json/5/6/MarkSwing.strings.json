@@ -1,0 +1,20 @@
+{
+    " default": " default",
+    " smirk": " smirk",
+    " state stand_swing": " state stand_swing",
+    " with armcrossed": " with armcrossed",
+    "$ D ": "$ D ",
+    "$ D scene activity swing": "$ D scene activity swing",
+    "$ D scene lighting sunset": "$ D scene lighting sunset",
+    "$ F ": "$ F ",
+    "$ flip_h NicoleLacsamana true": "$ flip_h NicoleLacsamana true",
+    "$ pass": "$ pass",
+    "$ start --wait \"5.6.MarkSwing.1d\"": "$ start --wait \"5.6.MarkSwing.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 0.5": "$ wait 0.5",
+    "MarkBorja": "MarkBorja",
+    "NicoleLacsamana": "NicoleLacsamana",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

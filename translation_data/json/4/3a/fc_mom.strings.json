@@ -1,0 +1,19 @@
+{
+    " frown": " frown",
+    "\"": "\"",
+    "$ F ": "$ F ",
+    "$ emit chat_finished": "$ emit chat_finished",
+    "$ online -MarkMom": "$ online -MarkMom",
+    "$ pass": "$ pass",
+    "$ thought \"": "$ thought \"",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 1": "$ wait 1",
+    "Mark: Hi mom. How have you been? Have you contacted dad recently?": "Mark: Hi mom. How have you been? Have you contacted dad recently?",
+    "Mark: I hope you're not overworking yourself, too!": "Mark: I hope you're not overworking yourself, too!",
+    "Mark: Merry Christmas, mom. [:I miss y]I love you": "Mark: Merry Christmas, mom. [:I miss y]I love you",
+    "Mark: Sadly he couldn't get out of work for Christmas this year": "Mark: Sadly he couldn't get out of work for Christmas this year",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\", \"MarkMom\": \"MarkMom\" }": "characters: { \"Mark\": \"MarkBorja\", \"MarkMom\": \"MarkMom\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

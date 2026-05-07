@@ -1,0 +1,19 @@
+{
+    "\"": "\"",
+    "$ F %Mark dazed": "$ F %Mark dazed",
+    "$ emit nicole_chat_finished": "$ emit nicole_chat_finished",
+    "$ pass": "$ pass",
+    "$ thought \"": "$ thought \"",
+    "$ wait 1": "$ wait 1",
+    "$ wait 2": "$ wait 2",
+    "Hi Nicole! Sorry for [:messaging]randomly messaging you. [:I feel like I know you but]I'm not trying to be creepy or anythi": "Hi Nicole! Sorry for [:messaging]randomly messaging you. [:I feel like I know you but]I'm not trying to be creepy or anythi",
+    "Mark: [:": "Mark: [:",
+    "My name is Mark Borja. I go to [:LIS]Liamson too. There's something I want to talk to you about [:and it's urgent]if that's coo": "My name is Mark Borja. I go to [:LIS]Liamson too. There's something I want to talk to you about [:and it's urgent]if that's coo",
+    "Nicole: [+++][..]Mark?": "Nicole: [+++][..]Mark?",
+    "[$ start_short \"thought_1\"]][:": "[$ start_short \"thought_1\"]][:",
+    "[$ start_short \"thought_2\"]]": "[$ start_short \"thought_2\"]]",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "hide_info_button: true": "hide_info_button: true",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

@@ -1,0 +1,21 @@
+{
+    "$ emit ryan_chat_finished": "$ emit ryan_chat_finished",
+    "$ pass": "$ pass",
+    "$ play_anim MarkHint notice": "$ play_anim MarkHint notice",
+    "$ play_sound Main": "$ play_sound Main",
+    "$ wait 1": "$ wait 1",
+    "Mark: I can't believe I forgot": "Mark: I can't believe I forgot",
+    "Mark: [:Darkfiends? I guess I did play][:I didn't]": "Mark: [:Darkfiends? I guess I did play][:I didn't]",
+    "Mark: [:Okay but]I'm on the way": "Mark: [:Okay but]I'm on the way",
+    "Mark: [:Ryan? Weren't you][:Wait why does this feel like]I'm a dead man walking unless I get those slides done": "Mark: [:Ryan? Weren't you][:Wait why does this feel like]I'm a dead man walking unless I get those slides done",
+    "Ryan: bet it wasnt darkfriends or anything": "Ryan: bet it wasnt darkfriends or anything",
+    "Ryan: dude louise filled me in": "Ryan: dude louise filled me in",
+    "Ryan: i'll help type the slides": "Ryan: i'll help type the slides",
+    "Ryan: these hands were built for efficiency baby": "Ryan: these hands were built for efficiency baby",
+    "Ryan: uh huh sure": "Ryan: uh huh sure",
+    "Ryan: ur toaST": "Ryan: ur toaST",
+    "Ryan: well get your ass to the library now": "Ryan: well get your ass to the library now",
+    "characters: { \"Mark\": \"MarkBorja\", \"Ryan\": \"RyanSoriano\" }": "characters: { \"Mark\": \"MarkBorja\", \"Ryan\": \"RyanSoriano\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

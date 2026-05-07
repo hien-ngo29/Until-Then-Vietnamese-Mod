@@ -1,0 +1,13 @@
+{
+    "$ D scene activity swing": "$ D scene activity swing",
+    "$ D scene lighting sunset": "$ D scene lighting sunset",
+    "$ fade_in": "$ fade_in",
+    "$ pass": "$ pass",
+    "$ play_sound Wind": "$ play_sound Wind",
+    "$ start --wait \"5.6.Cliffside.1d\"": "$ start --wait \"5.6.Cliffside.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 1": "$ wait 1",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

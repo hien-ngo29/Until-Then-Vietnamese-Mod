@@ -1,0 +1,11 @@
+{
+    "$ end_instant": "$ end_instant",
+    "$ pass": "$ pass",
+    "$ set_online": "$ set_online",
+    "$ start_instant": "$ start_instant",
+    "Louise: I have some updates": "Louise: I have some updates",
+    "Louise: Mark, can you meet me in the cafeteria?": "Louise: Mark, can you meet me in the cafeteria?",
+    "characters: { \"Mark\": \"MarkBorja\", \"Louise\": \"LouiseOrdunia\" }": "characters: { \"Mark\": \"MarkBorja\", \"Louise\": \"LouiseOrdunia\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

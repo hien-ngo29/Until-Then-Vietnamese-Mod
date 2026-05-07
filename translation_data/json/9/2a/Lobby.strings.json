@@ -1,0 +1,10 @@
+{
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ start --wait \"9.2a.Lobby.1d\"": "$ start --wait \"9.2a.Lobby.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 1.5": "$ wait 1.5",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

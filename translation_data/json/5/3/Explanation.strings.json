@@ -1,0 +1,16 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene pool_visible false": "$ D scene pool_visible false",
+    "$ F \"": "$ F \"",
+    "$ pass": "$ pass",
+    "$ start --wait \"5.3.Explanation.1d\"": "$ start --wait \"5.3.Explanation.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "LouiseOrdunia": "LouiseOrdunia",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

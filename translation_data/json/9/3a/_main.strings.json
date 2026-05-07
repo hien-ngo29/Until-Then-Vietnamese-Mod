@@ -1,0 +1,10 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Argument": "$ start_skit --wait Argument",
+    "$ start_skit --wait Phone": "$ start_skit --wait Phone",
+    "$ wait 2": "$ wait 2",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

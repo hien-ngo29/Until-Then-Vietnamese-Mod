@@ -1,0 +1,23 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene envi house": "$ D scene envi house",
+    "$ F \"": "$ F \"",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ push_focus move": "$ push_focus move",
+    "$ start --wait \"9.3b.Merry.1d\"": "$ start --wait \"9.3b.Merry.1d\"",
+    "$ thought \"": "$ thought \"",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 1.5": "$ wait 1.5",
+    "$ wait_for talk": "$ wait_for talk",
+    "CathyPortillo": "CathyPortillo",
+    "MarkBorja": "MarkBorja",
+    "Where did I put the flashlights again?": "Where did I put the flashlights again?",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

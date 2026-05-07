@@ -1,0 +1,12 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Fail": "$ start_skit --wait Fail",
+    "$ start_skit --wait Interview": "$ start_skit --wait Interview",
+    "$ start_skit --wait Lobby": "$ start_skit --wait Lobby",
+    "$ start_skit --wait TheWalk": "$ start_skit --wait TheWalk",
+    "$ wait 2.5": "$ wait 2.5",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

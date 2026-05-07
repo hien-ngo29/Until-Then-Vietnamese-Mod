@@ -1,0 +1,21 @@
+{
+    "$ ": "$ ",
+    "$ D MarkBorja with uniform": "$ D MarkBorja with uniform",
+    "$ D scene minigame_finished true": "$ D scene minigame_finished true",
+    "$ F MarkBorja default": "$ F MarkBorja default",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ fade_out_sound MainMid3 0.5": "$ fade_out_sound MainMid3 0.5",
+    "$ pass": "$ pass",
+    "$ to MinigameButtonUp": "$ to MinigameButtonUp",
+    "$ to Stand": "$ to Stand",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 1.5": "$ wait 1.5",
+    "$ wait_for head_to_school": "$ wait_for head_to_school",
+    "$ wait_for minigame_button_up_finished": "$ wait_for minigame_button_up_finished",
+    "$ wait_for wardrobe_interact": "$ wait_for wardrobe_interact",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

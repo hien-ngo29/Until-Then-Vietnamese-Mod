@@ -1,0 +1,12 @@
+{
+    "$ D NPC_Granny look_at l": "$ D NPC_Granny look_at l",
+    "$ D NPC_Male look_at l": "$ D NPC_Male look_at l",
+    "$ F Jake tying": "$ F Jake tying",
+    "$ F NPC_Granny positive": "$ F NPC_Granny positive",
+    "$ F NPC_Male neutral": "$ F NPC_Male neutral",
+    "$ pass": "$ pass",
+    "$ start --wait \"10.1b.Entrance.1d\"": "$ start --wait \"10.1b.Entrance.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

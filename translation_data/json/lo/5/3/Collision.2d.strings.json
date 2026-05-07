@@ -1,0 +1,21 @@
+{
+    "$ ": "$ ",
+    "$ D scene envi X": "$ D scene envi X",
+    "$ D scene plane nicole": "$ D scene plane nicole",
+    "$ D scene show_table true": "$ D scene show_table true",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out 0": "$ fade_out 0",
+    "$ pass": "$ pass",
+    "$ play nicole_glitch2": "$ play nicole_glitch2",
+    "$ pop_focus F0": "$ pop_focus F0",
+    "$ push_focus F0": "$ push_focus F0",
+    "$ start_short --wait preteenmark_sequence": "$ start_short --wait preteenmark_sequence",
+    "$ to CamNicole": "$ to CamNicole",
+    "$ wait 1": "$ wait 1",
+    "$ wait 2": "$ wait 2",
+    "$ wait 4": "$ wait 4",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

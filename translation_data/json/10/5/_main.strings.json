@@ -1,0 +1,11 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Conflict": "$ start_skit --wait Conflict",
+    "$ start_skit --wait Discrepancy": "$ start_skit --wait Discrepancy",
+    "$ start_skit --wait Dreams": "$ start_skit --wait Dreams",
+    "$ start_skit --wait PhoneChat": "$ start_skit --wait PhoneChat",
+    "characters: { \"Mark\": \"MarkBorja\",\"Nicole\": \"NicoleLacsamana\",\"Louise\": \"LouiseOrdunia\" }": "characters: { \"Mark\": \"MarkBorja\",\"Nicole\": \"NicoleLacsamana\",\"Louise\": \"LouiseOrdunia\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

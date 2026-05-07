@@ -1,0 +1,15 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ F \"": "$ F \"",
+    "$ pass": "$ pass",
+    "$ start --wait \"5.4.PostPhoto.1d\"": "$ start --wait \"5.4.PostPhoto.1d\"",
+    "$ to CamMarkNicole": "$ to CamMarkNicole",
+    "MarkBorja": "MarkBorja",
+    "NicoleLacsamana": "NicoleLacsamana",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

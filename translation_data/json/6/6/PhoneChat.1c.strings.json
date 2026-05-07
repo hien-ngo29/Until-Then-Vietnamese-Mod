@@ -1,0 +1,15 @@
+{
+    "$ pass": "$ pass",
+    "$ turn_on report_gc_done": "$ turn_on report_gc_done",
+    "$ wait 1": "$ wait 1",
+    "Cathy: im rly[..][++][..] sorry too": "Cathy: im rly[..][++][..] sorry too",
+    "Cathy: we won't let u[..] down again louise!": "Cathy: we won't let u[..] down again louise!",
+    "Mark: Hey guys. I'm really sorry again about the report": "Mark: Hey guys. I'm really sorry again about the report",
+    "Mark: I really let you guys down. I've finished the slides now": "Mark: I really let you guys down. I've finished the slides now",
+    "character_props: { \"MarkBorja\": { \"bub_color\": \"#111\", \"bub_text_color\": \"#fff\" }}": "character_props: { \"MarkBorja\": { \"bub_color\": \"#111\", \"bub_text_color\": \"#fff\" }}",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Louise\": \"LouiseOrdunia\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Louise\": \"LouiseOrdunia\" }",
+    "name: \"Group 1\"": "name: \"Group 1\"",
+    "picture: \"assets/pictures/characters/LouiseOrdunia.png\"": "picture: \"assets/pictures/characters/LouiseOrdunia.png\"",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

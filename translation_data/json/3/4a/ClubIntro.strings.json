@@ -1,0 +1,18 @@
+{
+    "$ D Justin look_at l": "$ D Justin look_at l",
+    "$ D Sam look_at r": "$ D Sam look_at r",
+    "$ D scene part free_roam_1": "$ D scene part free_roam_1",
+    "$ D scene setting ClubroomPiano": "$ D scene setting ClubroomPiano",
+    "$ F Justin sittyping": "$ F Justin sittyping",
+    "$ F Sam rf_default": "$ F Sam rf_default",
+    "$ pass": "$ pass",
+    "$ start --wait \"3.4a.ClubIntro.1d\"": "$ start --wait \"3.4a.ClubIntro.1d\"",
+    "$ start_short initial_quip": "$ start_short initial_quip",
+    "$ stop_sound Snoring": "$ stop_sound Snoring",
+    "$ to CamFollow": "$ to CamFollow",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "$ wait_for talk_to_justin": "$ wait_for talk_to_justin",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Nicole\" : \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Nicole\" : \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,12 @@
+{
+    "$ emit_local chat_finished": "$ emit_local chat_finished",
+    "$ pass": "$ pass",
+    "$ set_online": "$ set_online",
+    "$ wait 2": "$ wait 2",
+    "Mark: Nicole!!": "Mark: Nicole!!",
+    "SYS: Message failed to send": "SYS: Message failed to send",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\"}": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\"}",
+    "hide_info_button: true": "hide_info_button: true",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

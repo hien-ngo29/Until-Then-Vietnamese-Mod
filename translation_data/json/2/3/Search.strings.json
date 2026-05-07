@@ -1,0 +1,20 @@
+{
+    "\"": "\"",
+    "$ D scene part FreeExplore": "$ D scene part FreeExplore",
+    "$ pass": "$ pass",
+    "$ set_player_target SitGiveUp": "$ set_player_target SitGiveUp",
+    "$ start_short all_items_interacted": "$ start_short all_items_interacted",
+    "$ start_short give_up": "$ start_short give_up",
+    "$ thought \"": "$ thought \"",
+    "$ to CamFollow": "$ to CamFollow",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait_for _player_target_reached": "$ wait_for _player_target_reached",
+    "$ wait_for all_items_interacted": "$ wait_for all_items_interacted",
+    "$ wait_for sit_give_up": "$ wait_for sit_give_up",
+    "Candy won't be enough to tame the beast.": "Candy won't be enough to tame the beast.",
+    "There's gotta be something in here.": "There's gotta be something in here.",
+    "What was I thinking?": "What was I thinking?",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

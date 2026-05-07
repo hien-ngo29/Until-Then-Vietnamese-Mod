@@ -1,0 +1,19 @@
+{
+    " look_at X] she's not coming back.[/shake]": " look_at X] she's not coming back.[/shake]",
+    " with teary": " with teary",
+    "$ D ": "$ D ",
+    "$ pass": "$ pass",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 1": "$ wait 1",
+    "Mark: [shake rate=24 level=8]She's...[.][$ D ": "Mark: [shake rate=24 level=8]She's...[.][$ D ",
+    "MarkBorja": "MarkBorja",
+    "Ridel: I'll look for Cath myself!": "Ridel: I'll look for Cath myself!",
+    "Ridel: Mark, come on!": "Ridel: Mark, come on!",
+    "Ridel: She'll be back soon anyway, right?": "Ridel: She'll be back soon anyway, right?",
+    "Ridel: So you care all of a sudden now?": "Ridel: So you care all of a sudden now?",
+    "Ridel: That's great!": "Ridel: That's great!",
+    "Ridel: Then head back home!": "Ridel: Then head back home!",
+    "characters: { \"Mark\": \"MarkBorja\", \"Ridel\": \"RidelGonzales\" }": "characters: { \"Mark\": \"MarkBorja\", \"Ridel\": \"RidelGonzales\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

@@ -1,0 +1,11 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Dialogue": "$ start_skit --wait Dialogue",
+    "$ start_skit --wait DoubleSlit": "$ start_skit --wait DoubleSlit",
+    "$ start_skit --wait FreeRoam": "$ start_skit --wait FreeRoam",
+    "$ start_skit --wait Map": "$ start_skit --wait Map",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,10 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Exploration": "$ start_skit --wait Exploration",
+    "$ start_skit --wait Meetup": "$ start_skit --wait Meetup",
+    "$ start_skit --wait RidelArrival": "$ start_skit --wait RidelArrival",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

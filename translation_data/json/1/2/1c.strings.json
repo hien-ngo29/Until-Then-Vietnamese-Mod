@@ -1,0 +1,15 @@
+{
+    "$ hide_phone": "$ hide_phone",
+    "$ pass": "$ pass",
+    "$ play_anim MarkHint notice": "$ play_anim MarkHint notice",
+    "$ play_sound Notification": "$ play_sound Notification",
+    "$ wait 1.5": "$ wait 1.5",
+    "Mark: Okay creep": "Mark: Okay creep",
+    "Mark: Where?": "Mark: Where?",
+    "Ryan: in the train obviously": "Ryan: in the train obviously",
+    "Ryan: just come forward will ya": "Ryan: just come forward will ya",
+    "Ryan: yo dude i think i see you from here": "Ryan: yo dude i think i see you from here",
+    "characters: { \"Mark\": \"MarkBorja\", \"Ryan\": \"RyanSoriano\" }": "characters: { \"Mark\": \"MarkBorja\", \"Ryan\": \"RyanSoriano\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

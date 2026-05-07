@@ -1,0 +1,10 @@
+{
+    "$ next_scene --no-load-screen": "$ next_scene --no-load-screen",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Acceptance": "$ start_skit --wait Acceptance",
+    "$ start_skit --wait Cope": "$ start_skit --wait Cope",
+    "$ start_skit --wait Intro": "$ start_skit --wait Intro",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

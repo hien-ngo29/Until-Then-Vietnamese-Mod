@@ -1,0 +1,16 @@
+{
+    "$ D MarkBorja with phone": "$ D MarkBorja with phone",
+    "$ D scene envi evac_center": "$ D scene envi evac_center",
+    "$ F MarkBorja default": "$ F MarkBorja default",
+    "$ pass": "$ pass",
+    "$ pop_focus F0": "$ pop_focus F0",
+    "$ push_focus F0": "$ push_focus F0",
+    "$ start_short \"intro\"": "$ start_short \"intro\"",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 1": "$ wait 1",
+    "$ wait 1.5": "$ wait 1.5",
+    "$ wait_for end_reached": "$ wait_for end_reached",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

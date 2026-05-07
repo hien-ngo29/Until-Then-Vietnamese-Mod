@@ -1,0 +1,11 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Discuss": "$ start_skit --wait Discuss",
+    "$ start_skit --wait Experiment": "$ start_skit --wait Experiment",
+    "$ start_skit --wait Intro": "$ start_skit --wait Intro",
+    "$ to CamMain": "$ to CamMain",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

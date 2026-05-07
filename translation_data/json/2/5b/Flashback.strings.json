@@ -1,0 +1,10 @@
+{
+    "$ D scene lighting night": "$ D scene lighting night",
+    "$ pass": "$ pass",
+    "$ start --wait \"2.5b.Flashback.1d\"": "$ start --wait \"2.5b.Flashback.1d\"",
+    "$ to PianoBack": "$ to PianoBack",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

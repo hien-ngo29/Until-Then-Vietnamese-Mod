@@ -1,0 +1,14 @@
+{
+    "$ D scene envi evac_center": "$ D scene envi evac_center",
+    "$ pass": "$ pass",
+    "$ play --no-wait CamMain_enter": "$ play --no-wait CamMain_enter",
+    "$ play_sound StrangeVibe": "$ play_sound StrangeVibe",
+    "$ start --wait \"10.7.Intro.1d\"": "$ start --wait \"10.7.Intro.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 1": "$ wait 1",
+    "$ wait 5": "$ wait 5",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

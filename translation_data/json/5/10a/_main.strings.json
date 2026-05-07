@@ -1,0 +1,16 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait AskNicole": "$ start_skit --wait AskNicole",
+    "$ start_skit --wait DanceNicole": "$ start_skit --wait DanceNicole",
+    "$ start_skit --wait DanceOff": "$ start_skit --wait DanceOff",
+    "$ start_skit --wait Intro": "$ start_skit --wait Intro",
+    "$ start_skit --wait Outro": "$ start_skit --wait Outro",
+    "$ start_skit --wait PreEvent": "$ start_skit --wait PreEvent",
+    "$ start_skit --wait SearchCathy": "$ start_skit --wait SearchCathy",
+    "$ start_skit --wait Stage": "$ start_skit --wait Stage",
+    "$ wait 1": "$ wait 1",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

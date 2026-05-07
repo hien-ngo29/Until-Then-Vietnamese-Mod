@@ -1,0 +1,17 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ F \"": "$ F \"",
+    "$ pass": "$ pass",
+    "$ start --wait \"5.2.EventStart.1d\"": "$ start --wait \"5.2.EventStart.1d\"",
+    "Carlo": "Carlo",
+    "Elise": "Elise",
+    "Justin": "Justin",
+    "MarkBorja": "MarkBorja",
+    "Sam": "Sam",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

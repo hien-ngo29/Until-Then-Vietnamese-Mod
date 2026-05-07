@@ -1,0 +1,15 @@
+{
+    "$ D %Sofia mode follow": "$ D %Sofia mode follow",
+    "$ F %Mark neutral": "$ F %Mark neutral",
+    "$ F %Sofia positive": "$ F %Sofia positive",
+    "$ flip_h %Mark 0": "$ flip_h %Mark 0",
+    "$ pass": "$ pass",
+    "$ set_player_target TargetExit": "$ set_player_target TargetExit",
+    "$ switch_sound Main C": "$ switch_sound Main C",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait_for exit": "$ wait_for exit",
+    "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\" }": "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

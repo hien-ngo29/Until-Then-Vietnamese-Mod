@@ -1,0 +1,8 @@
+{
+    "$ D scene envi forest": "$ D scene envi forest",
+    "$ pass": "$ pass",
+    "$ start --wait \"10.7.FlashC2.1d\"": "$ start --wait \"10.7.FlashC2.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

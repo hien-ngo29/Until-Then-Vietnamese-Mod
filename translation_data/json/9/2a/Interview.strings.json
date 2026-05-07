@@ -1,0 +1,9 @@
+{
+    "$ pass": "$ pass",
+    "$ play_sound GlassDoor": "$ play_sound GlassDoor",
+    "$ start --wait \"9.2a.Interview.1d\"": "$ start --wait \"9.2a.Interview.1d\"",
+    "$ wait 0.5": "$ wait 0.5",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

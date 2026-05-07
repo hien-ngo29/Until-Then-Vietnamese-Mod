@@ -1,0 +1,12 @@
+{
+    "$ ": "$ ",
+    "$ pass": "$ pass",
+    "$ wait 1": "$ wait 1",
+    "NOP": "NOP",
+    "Soldier: But it looks like the road ahead eroded and is too dangerous.": "Soldier: But it looks like the road ahead eroded and is too dangerous.",
+    "Soldier: I'm afraid we have to stop here.": "Soldier: I'm afraid we have to stop here.",
+    "Soldier: I'm sorry, folks": "Soldier: I'm sorry, folks",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

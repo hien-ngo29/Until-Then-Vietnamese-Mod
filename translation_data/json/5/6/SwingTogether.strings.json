@@ -1,0 +1,18 @@
+{
+    "$ D MarkBorja state stand_swing": "$ D MarkBorja state stand_swing",
+    "$ D NicoleLacsamana look_at r": "$ D NicoleLacsamana look_at r",
+    "$ D NicoleLacsamana state sit_swing": "$ D NicoleLacsamana state sit_swing",
+    "$ D NicoleLacsamana with swing": "$ D NicoleLacsamana with swing",
+    "$ D Swing state fixed": "$ D Swing state fixed",
+    "$ D scene activity swing": "$ D scene activity swing",
+    "$ D scene lighting sunset": "$ D scene lighting sunset",
+    "$ F MarkBorja smug": "$ F MarkBorja smug",
+    "$ F NicoleLacsamana default": "$ F NicoleLacsamana default",
+    "$ fade_in": "$ fade_in",
+    "$ pass": "$ pass",
+    "$ start --wait \"5.6.SwingTogether.1d\"": "$ start --wait \"5.6.SwingTogether.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

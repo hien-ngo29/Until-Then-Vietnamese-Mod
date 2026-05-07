@@ -1,0 +1,20 @@
+{
+    "\"": "\"",
+    "$ D scene lighting default": "$ D scene lighting default",
+    "$ D scene part \"": "$ D scene part \"",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start --wait \"4.4b.1d\"": "$ start --wait \"4.4b.1d\"",
+    "$ start --wait \"4.4b.2d\"": "$ start --wait \"4.4b.2d\"",
+    "$ start --wait \"4.4b.3d\"": "$ start --wait \"4.4b.3d\"",
+    "$ start --wait \"4.4b.4d\"": "$ start --wait \"4.4b.4d\"",
+    "$ to CamPiano": "$ to CamPiano",
+    "$ wait 2": "$ wait 2",
+    "PianoMom": "PianoMom",
+    "PianoNicole": "PianoNicole",
+    "PicNicole": "PicNicole",
+    "Yard": "Yard",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,11 @@
+{
+    "$ emit cathy_chat_finished": "$ emit cathy_chat_finished",
+    "$ pass": "$ pass",
+    "$ wait 1": "$ wait 1",
+    "Cathy: okaaay[.] wait for me[.]": "Cathy: okaaay[.] wait for me[.]",
+    "Cathy: on my way zzzz": "Cathy: on my way zzzz",
+    "Mark: Just got here": "Mark: Just got here",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

@@ -1,0 +1,15 @@
+{
+    "$ ": "$ ",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ play_sound_persist ": "$ play_sound_persist ",
+    "$ set_time 1415946003": "$ set_time 1415946003",
+    "$ start_skit --wait Practice": "$ start_skit --wait Practice",
+    "$ start_skit --wait Prepare": "$ start_skit --wait Prepare",
+    "$ start_skit --wait WakeUp": "$ start_skit --wait WakeUp",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "music_end": "music_end",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

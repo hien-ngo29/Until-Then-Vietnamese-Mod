@@ -1,0 +1,11 @@
+{
+    "$ F RidelGonzales concerned": "$ F RidelGonzales concerned",
+    "$ fade_out 2.5": "$ fade_out 2.5",
+    "$ pass": "$ pass",
+    "$ start --wait \"9.2a.Fail.1d\"": "$ start --wait \"9.2a.Fail.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 4.5": "$ wait 4.5",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

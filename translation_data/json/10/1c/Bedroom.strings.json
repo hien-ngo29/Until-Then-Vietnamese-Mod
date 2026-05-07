@@ -1,0 +1,23 @@
+{
+    "$ D %Mark look_at X": "$ D %Mark look_at X",
+    "$ D %Mark look_at d": "$ D %Mark look_at d",
+    "$ D scene pot_heat true": "$ D scene pot_heat true",
+    "$ D scene show_book true": "$ D scene show_book true",
+    "$ F %Mark confused": "$ F %Mark confused",
+    "$ F %Mark default": "$ F %Mark default",
+    "$ F %Mark frown": "$ F %Mark frown",
+    "$ F %Mark surprised": "$ F %Mark surprised",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ thought \"Shit! The rice!\"": "$ thought \"Shit! The rice!\"",
+    "$ to CamBedroom": "$ to CamBedroom",
+    "$ to CamBedroomSit": "$ to CamBedroomSit",
+    "$ wait 1": "$ wait 1",
+    "$ wait 2": "$ wait 2",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "$ wait_for interact_pot": "$ wait_for interact_pot",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

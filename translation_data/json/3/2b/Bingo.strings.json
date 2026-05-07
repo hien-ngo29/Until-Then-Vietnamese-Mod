@@ -1,0 +1,12 @@
+{
+    "$ D scene glitch_visible false": "$ D scene glitch_visible false",
+    "$ D scene pier_mark_cat_ears_visible false": "$ D scene pier_mark_cat_ears_visible false",
+    "$ D scene ward_flashback_visible false": "$ D scene ward_flashback_visible false",
+    "$ D scene your_fault_guy_visible false": "$ D scene your_fault_guy_visible false",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ start --wait \"3.2b.Bingo.1d\"": "$ start --wait \"3.2b.Bingo.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,19 @@
+{
+    "$ D %Mark look_at X": "$ D %Mark look_at X",
+    "$ D %Mark look_at d": "$ D %Mark look_at d",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ to CamBinoculars": "$ to CamBinoculars",
+    "$ to CamWalk": "$ to CamWalk",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 1": "$ wait 1",
+    "$ wait_for exit_binoculars": "$ wait_for exit_binoculars",
+    ":: God. I've never seen it like that.": ":: God. I've never seen it like that.",
+    ":: It's just like I remember it.": ":: It's just like I remember it.",
+    ":: Okay, let's hope I was right.": ":: Okay, let's hope I was right.",
+    ":: She's here. She's gotta be.": ":: She's here. She's gotta be.",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

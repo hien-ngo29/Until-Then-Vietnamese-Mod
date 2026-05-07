@@ -1,0 +1,20 @@
+{
+    "$ D scene part MainHallway": "$ D scene part MainHallway",
+    "$ D scene part PianoRoom": "$ D scene part PianoRoom",
+    "$ D scene piano_open false": "$ D scene piano_open false",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ play_sound DoorSlightCreak": "$ play_sound DoorSlightCreak",
+    "$ play_sound MusicDiscovery": "$ play_sound MusicDiscovery",
+    "$ start --wait \"7.4a.PianoRoom.1d\"": "$ start --wait \"7.4a.PianoRoom.1d\"",
+    "$ start_short on_enter_piano_room": "$ start_short on_enter_piano_room",
+    "$ to MainHallway": "$ to MainHallway",
+    "$ to MainPiano": "$ to MainPiano",
+    "$ wait 1": "$ wait 1",
+    "$ wait_for piano_interacted": "$ wait_for piano_interacted",
+    "$ wait_for piano_room_entered": "$ wait_for piano_room_entered",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

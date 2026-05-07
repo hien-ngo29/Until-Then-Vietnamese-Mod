@@ -1,0 +1,12 @@
+{
+    "$ D NicoleLacsamana look_at X": "$ D NicoleLacsamana look_at X",
+    "$ D NicoleLacsamana with X": "$ D NicoleLacsamana with X",
+    "$ F NicoleLacsamana _turn_around": "$ F NicoleLacsamana _turn_around",
+    "$ pass": "$ pass",
+    "$ start_short Nicole5_dialogue_1": "$ start_short Nicole5_dialogue_1",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 1": "$ wait 1",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

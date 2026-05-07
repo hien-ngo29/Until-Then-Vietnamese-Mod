@@ -1,0 +1,10 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait LookAround": "$ start_skit --wait LookAround",
+    "$ start_skit --wait RoamWithSofia": "$ start_skit --wait RoamWithSofia",
+    "$ start_skit --wait SofiaEncounter": "$ start_skit --wait SofiaEncounter",
+    "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\" }": "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

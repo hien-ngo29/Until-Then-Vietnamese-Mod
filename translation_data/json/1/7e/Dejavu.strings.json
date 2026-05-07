@@ -1,0 +1,8 @@
+{
+    "$ pass": "$ pass",
+    "$ start --wait \"1.7e.Dejavu.1d\"": "$ start --wait \"1.7e.Dejavu.1d\"",
+    "$ to CamDialogueDuo": "$ to CamDialogueDuo",
+    "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\", \"Louise\": \"LouiseOrdunia\", \"Mike\": \"MikeAguilar\" }": "characters: { \"Mark\": \"MarkBorja\", \"Sofia\": \"SofiaRubio\", \"Louise\": \"LouiseOrdunia\", \"Mike\": \"MikeAguilar\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

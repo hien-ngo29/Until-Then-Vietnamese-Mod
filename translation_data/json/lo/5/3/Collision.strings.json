@@ -1,0 +1,18 @@
+{
+    "$ F %Mark dazed": "$ F %Mark dazed",
+    "$ fade_out 0": "$ fade_out 0",
+    "$ pass": "$ pass",
+    "$ play mark_glitch2": "$ play mark_glitch2",
+    "$ pop_focus F0": "$ pop_focus F0",
+    "$ push_focus F0": "$ push_focus F0",
+    "$ start --wait lo.5.3.Collision.1d": "$ start --wait lo.5.3.Collision.1d",
+    "$ start --wait lo.5.3.Collision.2d": "$ start --wait lo.5.3.Collision.2d",
+    "$ start_short --wait mark_in_between": "$ start_short --wait mark_in_between",
+    "$ wait 1.5": "$ wait 1.5",
+    "$ wait_for jake_sequence_ended": "$ wait_for jake_sequence_ended",
+    "$ wait_for jake_triggered": "$ wait_for jake_triggered",
+    "$ wait_for mark_in_between": "$ wait_for mark_in_between",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\"}": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

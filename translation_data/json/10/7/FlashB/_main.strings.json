@@ -1,0 +1,8 @@
+{
+    "$ D scene envi stage_nicole": "$ D scene envi stage_nicole",
+    "$ pass": "$ pass",
+    "$ start --wait \"10.7.FlashB.1d\"": "$ start --wait \"10.7.FlashB.1d\"",
+    "characters: { \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Nicole\"": "player: \"Nicole\"",
+    "type: \"scene\"": "type: \"scene\""
+}

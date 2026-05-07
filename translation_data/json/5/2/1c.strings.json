@@ -1,0 +1,18 @@
+{
+    " default": " default",
+    "$ F ": "$ F ",
+    "$ emit chat_1c_segment_over": "$ emit chat_1c_segment_over",
+    "$ pass": "$ pass",
+    "$ set_online Mark": "$ set_online Mark",
+    "$ wait 1.5": "$ wait 1.5",
+    "$ wait 2.5": "$ wait 2.5",
+    "$ wait 3": "$ wait 3",
+    "$ wait_for chat_1c_segment_next": "$ wait_for chat_1c_segment_next",
+    "Mark: Nicole? [:Hey]Are you on the way?": "Mark: Nicole? [:Hey]Are you on the way?",
+    "Mark: Sam's playing! She's doing pretty well!": "Mark: Sam's playing! She's doing pretty well!",
+    "Mark: We're about to start": "Mark: We're about to start",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

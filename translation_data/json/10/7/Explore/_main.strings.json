@@ -1,0 +1,13 @@
+{
+    "$ D LouiseOrdunia mode observe": "$ D LouiseOrdunia mode observe",
+    "$ D scene envi evac_center": "$ D scene envi evac_center",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ play_sound DoorOpenClose": "$ play_sound DoorOpenClose",
+    "$ to CamF1": "$ to CamF1",
+    "$ wait 2": "$ wait 2",
+    "$ wait_for classroom_reached": "$ wait_for classroom_reached",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

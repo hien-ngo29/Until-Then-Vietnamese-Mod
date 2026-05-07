@@ -1,0 +1,20 @@
+{
+    "$ D scene DanceOff_shot ": "$ D scene DanceOff_shot ",
+    "$ D scene DanceOff_shot 40": "$ D scene DanceOff_shot 40",
+    "$ D scene envi Inside": "$ D scene envi Inside",
+    "$ cross_fade_to_camera CamMain 0.1": "$ cross_fade_to_camera CamMain 0.1",
+    "$ hide_cross_fader": "$ hide_cross_fader",
+    "$ pass": "$ pass",
+    "$ play --reverse flash_in": "$ play --reverse flash_in",
+    "$ play --reverse white_flash_in": "$ play --reverse white_flash_in",
+    "$ play white_flash_in": "$ play white_flash_in",
+    "$ set_rain_intensity 0": "$ set_rain_intensity 0",
+    "$ show_cross_fader": "$ show_cross_fader",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 0.75": "$ wait 0.75",
+    "$ wait 1": "$ wait 1",
+    "$ wait 2": "$ wait 2",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,19 @@
+{
+    "$ F CathyPortillo determined": "$ F CathyPortillo determined",
+    "$ F CathyPortillo positive": "$ F CathyPortillo positive",
+    "$ F MarkBorja smirk": "$ F MarkBorja smirk",
+    "$ F MarkBorja smug": "$ F MarkBorja smug",
+    "$ F RidelGonzales nervouspositive": "$ F RidelGonzales nervouspositive",
+    "$ pass": "$ pass",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 0.75": "$ wait 0.75",
+    "$ wait 1": "$ wait 1",
+    "Cathy: You got this, man.": "Cathy: You got this, man.",
+    "Cathy: You're our Ridol.": "Cathy: You're our Ridol.",
+    "Mark: You're our Ridol.": "Mark: You're our Ridol.",
+    "Ridel: Here goes everything.": "Ridel: Here goes everything.",
+    "Ridel: Th-thanks, guys.": "Ridel: Th-thanks, guys.",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Ridel\": \"RidelGonzales\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Ridel\": \"RidelGonzales\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

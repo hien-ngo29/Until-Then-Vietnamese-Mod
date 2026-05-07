@@ -1,0 +1,9 @@
+{
+    "$ pass": "$ pass",
+    "$ start --wait \"3.4d.Day4.1d\"": "$ start --wait \"3.4d.Day4.1d\"",
+    "$ wait 5": "$ wait 5",
+    "$ wait_for to_post_montage": "$ wait_for to_post_montage",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Nicole\" : \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Nicole\" : \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

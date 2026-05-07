@@ -1,0 +1,7 @@
+{
+    "$ pass": "$ pass",
+    "$ start --wait \"10.5.Dreams.1d\"": "$ start --wait \"10.5.Dreams.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\",\"Nicole\": \"NicoleLacsamana\",\"Louise\": \"LouiseOrdunia\" }": "characters: { \"Mark\": \"MarkBorja\",\"Nicole\": \"NicoleLacsamana\",\"Louise\": \"LouiseOrdunia\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,17 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene activity swing": "$ D scene activity swing",
+    "$ D scene lighting sunset": "$ D scene lighting sunset",
+    "$ F \"": "$ F \"",
+    "$ pass": "$ pass",
+    "$ start --wait \"5.6.NicoleSwing.1d\"": "$ start --wait \"5.6.NicoleSwing.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "MarkBorja": "MarkBorja",
+    "NicoleLacsamana": "NicoleLacsamana",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

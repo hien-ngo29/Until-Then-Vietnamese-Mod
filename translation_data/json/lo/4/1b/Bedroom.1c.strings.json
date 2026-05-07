@@ -1,0 +1,13 @@
+{
+    "$ ": "$ ",
+    "$ clear_phone": "$ clear_phone",
+    "$ online -Mark": "$ online -Mark",
+    "$ pass": "$ pass",
+    "$ start_short \"thought\"": "$ start_short \"thought\"",
+    "$ wait 1": "$ wait 1",
+    "NOP": "NOP",
+    "Nicole: [:Hey Mark how]": "Nicole: [:Hey Mark how]",
+    "characters: { \"Nicole\": \"NicoleLacsamana\", \"Mark\": \"MarkBorja\" }": "characters: { \"Nicole\": \"NicoleLacsamana\", \"Mark\": \"MarkBorja\" }",
+    "player: \"Nicole\"": "player: \"Nicole\"",
+    "type: \"chat\"": "type: \"chat\""
+}

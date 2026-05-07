@@ -1,0 +1,16 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait HomecomingBye": "$ start_skit --wait HomecomingBye",
+    "$ start_skit --wait HomecomingMain": "$ start_skit --wait HomecomingMain",
+    "$ start_skit --wait HomecomingWait": "$ start_skit --wait HomecomingWait",
+    "$ start_skit --wait Letter": "$ start_skit --wait Letter",
+    "$ start_skit --wait PostVoid": "$ start_skit --wait PostVoid",
+    "$ start_skit --wait PreVoid": "$ start_skit --wait PreVoid",
+    "$ start_skit --wait Void1": "$ start_skit --wait Void1",
+    "$ start_skit --wait Void2": "$ start_skit --wait Void2",
+    "$ wait 4": "$ wait 4",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

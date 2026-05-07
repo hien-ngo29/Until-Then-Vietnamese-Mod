@@ -1,0 +1,9 @@
+{
+    "$ D CathyPortillo show_cathy_stand true": "$ D CathyPortillo show_cathy_stand true",
+    "$ D MarkBorja show_mark_stand true": "$ D MarkBorja show_mark_stand true",
+    "$ pass": "$ pass",
+    "$ start --wait \"6.5.CathyRidelConvo.1d\"": "$ start --wait \"6.5.CathyRidelConvo.1d\"",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

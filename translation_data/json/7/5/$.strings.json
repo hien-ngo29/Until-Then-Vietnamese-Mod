@@ -1,0 +1,12 @@
+{
+    "$ D %Mark look_at X": "$ D %Mark look_at X",
+    "$ D %Mark look_at r": "$ D %Mark look_at r",
+    "$ pass": "$ pass",
+    "$ wait 0.75": "$ wait 0.75",
+    "$ wait 1": "$ wait 1",
+    ":: I can see why he chose it.": ":: I can see why he chose it.",
+    ":: Well, this is the place.": ":: Well, this is the place.",
+    "characters: { \"Mark\": \"MarkBorja\"}": "characters: { \"Mark\": \"MarkBorja\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

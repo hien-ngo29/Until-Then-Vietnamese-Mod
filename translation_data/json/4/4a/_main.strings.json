@@ -1,0 +1,22 @@
+{
+    " persuasive": " persuasive",
+    "$ D scene part Intro": "$ D scene part Intro",
+    "$ D scene part NocheBuena": "$ D scene part NocheBuena",
+    "$ F ": "$ F ",
+    "$ emit stop_videoke": "$ emit stop_videoke",
+    "$ fade_out": "$ fade_out",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ play --no-wait Intro_Nicole_Dad_out": "$ play --no-wait Intro_Nicole_Dad_out",
+    "$ play --reverse CamNocheBuena_prep_scene": "$ play --reverse CamNocheBuena_prep_scene",
+    "$ start --wait \"4.4a.1d\"": "$ start --wait \"4.4a.1d\"",
+    "$ start --wait \"4.4a.2d\"": "$ start --wait \"4.4a.2d\"",
+    "$ to CamIntro": "$ to CamIntro",
+    "$ wait 1": "$ wait 1",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "$ wait_for end_free_roam": "$ wait_for end_free_roam",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

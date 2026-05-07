@@ -1,0 +1,21 @@
+{
+    "\"": "\"",
+    "$ ": "$ ",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ to \"": "$ to \"",
+    "$ to CamWalkHallway": "$ to CamWalkHallway",
+    "$ to CamWalkPiano": "$ to CamWalkPiano",
+    "$ wait 0.5": "$ wait 0.5",
+    ":: I didn't want to face it head-on.": ":: I didn't want to face it head-on.",
+    ":: That wasn't even the question.": ":: That wasn't even the question.",
+    ":: Was I really ready to move on?": ":: Was I really ready to move on?",
+    ":: You would have wanted me to keep playing, wouldn't you?": ":: You would have wanted me to keep playing, wouldn't you?",
+    "CamWalkLiving": "CamWalkLiving",
+    "NOP": "NOP",
+    "PicturesCloseUp3": "PicturesCloseUp3",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

@@ -1,0 +1,12 @@
+{
+    "$ D MarkBorja with call": "$ D MarkBorja with call",
+    "$ F MarkBorja positive": "$ F MarkBorja positive",
+    "$ pass": "$ pass",
+    "$ start_short phone_convo": "$ start_short phone_convo",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 1": "$ wait 1",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

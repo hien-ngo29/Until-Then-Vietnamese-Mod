@@ -1,0 +1,11 @@
+{
+    "$ ": "$ ",
+    "$ D scene envi default": "$ D scene envi default",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ wait_for end_performance": "$ wait_for end_performance",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

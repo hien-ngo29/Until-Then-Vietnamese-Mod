@@ -1,0 +1,14 @@
+{
+    "$ D %Louise mode sit": "$ D %Louise mode sit",
+    "$ F %Louise serious": "$ F %Louise serious",
+    "$ F %Mark worried": "$ F %Mark worried",
+    "$ fade_in": "$ fade_in",
+    "$ pass": "$ pass",
+    "$ start --wait \"6.7c.Dejavu.1d\"": "$ start --wait \"6.7c.Dejavu.1d\"",
+    "$ to CamDialogueDuo": "$ to CamDialogueDuo",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 2": "$ wait 2",
+    "characters: { \"Mark\": \"MarkBorja\", \"Louise\": \"LouiseOrdunia\" }": "characters: { \"Mark\": \"MarkBorja\", \"Louise\": \"LouiseOrdunia\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

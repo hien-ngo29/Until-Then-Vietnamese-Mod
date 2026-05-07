@@ -1,0 +1,19 @@
+{
+    "$ D scene envi AlphaMart": "$ D scene envi AlphaMart",
+    "$ fade_out 1": "$ fade_out 1",
+    "$ pass": "$ pass",
+    "$ play andrew_chuckle": "$ play andrew_chuckle",
+    "$ play cathy_giggle": "$ play cathy_giggle",
+    "$ play end_segment": "$ play end_segment",
+    "$ play simulated_talking_1": "$ play simulated_talking_1",
+    "$ thought \"But that's part of understanding, isn't it?\"": "$ thought \"But that's part of understanding, isn't it?\"",
+    "$ thought \"To misunderstand...\"": "$ thought \"To misunderstand...\"",
+    "$ to CamAndrew": "$ to CamAndrew",
+    "$ to CamCathy": "$ to CamCathy",
+    "$ to CamMain": "$ to CamMain",
+    "$ to CamMainFar": "$ to CamMainFar",
+    "$ wait 1": "$ wait 1",
+    "characters: { \"Mark\": \"MarkBorja\"}": "characters: { \"Mark\": \"MarkBorja\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

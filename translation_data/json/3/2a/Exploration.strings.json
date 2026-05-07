@@ -1,0 +1,23 @@
+{
+    " ": " ",
+    "\"": "\"",
+    "$ D scene part \"": "$ D scene part \"",
+    "$ F ": "$ F ",
+    "$ fade_in": "$ fade_in",
+    "$ pass": "$ pass",
+    "$ start_short gametime_intro": "$ start_short gametime_intro",
+    "$ to CamMarkPlane1_StandCatears": "$ to CamMarkPlane1_StandCatears",
+    "$ wait 1": "$ wait 1",
+    "$ wait_for all_games_finished": "$ wait_for all_games_finished",
+    "CathyPortillo": "CathyPortillo",
+    "GameTime": "GameTime",
+    "MarkBorja": "MarkBorja",
+    "RidelGonzales": "RidelGonzales",
+    "bothered": "bothered",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "default": "default",
+    "neutral": "neutral",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "positive": "positive",
+    "type: \"scene\"": "type: \"scene\""
+}

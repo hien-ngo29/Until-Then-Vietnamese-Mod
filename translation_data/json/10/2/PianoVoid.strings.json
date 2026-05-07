@@ -1,0 +1,10 @@
+{
+    "$ ": "$ ",
+    "$ D scene envi void": "$ D scene envi void",
+    "$ pass": "$ pass",
+    "$ wait_for end_void": "$ wait_for end_void",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

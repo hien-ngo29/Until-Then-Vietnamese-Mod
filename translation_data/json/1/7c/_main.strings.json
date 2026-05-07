@@ -1,0 +1,19 @@
+{
+    "$ emit start_minigame_fishball": "$ emit start_minigame_fishball",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ fade_out_sound MusicA": "$ fade_out_sound MusicA",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ set_anim CartFishball normal": "$ set_anim CartFishball normal",
+    "$ set_anim KuyaFishball stand": "$ set_anim KuyaFishball stand",
+    "$ start --wait \"1.7c.1d\"": "$ start --wait \"1.7c.1d\"",
+    "$ start_short pre_fishball_minigame": "$ start_short pre_fishball_minigame",
+    "$ to MinigameFishball": "$ to MinigameFishball",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait_for fishball_cart_reached": "$ wait_for fishball_cart_reached",
+    "$ wait_for minigame_fishball_finished": "$ wait_for minigame_fishball_finished",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

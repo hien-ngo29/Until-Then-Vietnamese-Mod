@@ -1,0 +1,19 @@
+{
+    "$ ": "$ ",
+    "$ F %Mark smirk": "$ F %Mark smirk",
+    "$ emit nicole_chat_finished": "$ emit nicole_chat_finished",
+    "$ end_instant": "$ end_instant",
+    "$ pass": "$ pass",
+    "$ start_instant": "$ start_instant",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 1.25": "$ wait 1.25",
+    "Mark: I really hope so": "Mark: I really hope so",
+    "Mark: Me too": "Mark: Me too",
+    "NOP": "NOP",
+    "Nicole: I'm glad I get to see you again": "Nicole: I'm glad I get to see you again",
+    "Nicole: I'm omw": "Nicole: I'm omw",
+    "Nicole: Let's hope this works": "Nicole: Let's hope this works",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

@@ -1,0 +1,13 @@
+{
+    "$ D scene playthrough 1": "$ D scene playthrough 1",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Day1": "$ start_skit --wait Day1",
+    "$ start_skit --wait Day2": "$ start_skit --wait Day2",
+    "$ start_skit --wait Day3": "$ start_skit --wait Day3",
+    "$ start_skit --wait Day4": "$ start_skit --wait Day4",
+    "$ start_skit --wait PostMontage": "$ start_skit --wait PostMontage",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Nicole\" : \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Nicole\" : \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

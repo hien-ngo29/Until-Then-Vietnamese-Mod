@@ -1,0 +1,16 @@
+{
+    "$ ": "$ ",
+    "$ emit cathy_chat_finished": "$ emit cathy_chat_finished",
+    "$ end_instant": "$ end_instant",
+    "$ pass": "$ pass",
+    "$ start_instant": "$ start_instant",
+    "$ wait 3": "$ wait 3",
+    "Cathy: life is hard but you know we have each other": "Cathy: life is hard but you know we have each other",
+    "Cathy: mark! ur dad and i are worried": "Cathy: mark! ur dad and i are worried",
+    "Cathy: please don't do this to us mark": "Cathy: please don't do this to us mark",
+    "Cathy: where are you??": "Cathy: where are you??",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

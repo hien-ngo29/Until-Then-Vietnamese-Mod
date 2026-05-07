@@ -1,0 +1,18 @@
+{
+    "$ F %Mark concerned": "$ F %Mark concerned",
+    "$ emit_local chat_1c_finished": "$ emit_local chat_1c_finished",
+    "$ end_instant": "$ end_instant",
+    "$ pass": "$ pass",
+    "$ start_instant": "$ start_instant",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 1": "$ wait 1",
+    "$ wait 1.5": "$ wait 1.5",
+    "Nicole: Hey, Mark": "Nicole: Hey, Mark",
+    "Nicole: I [...][++][..]miss [..]you.[..]": "Nicole: I [...][++][..]miss [..]you.[..]",
+    "Nicole: I miss[...][++][..] hanging out with you[...][++][.][+][..] and playing the piano together[..]": "Nicole: I miss[...][++][..] hanging out with you[...][++][.][+][..] and playing the piano together[..]",
+    "Nicole: I'm not sure what's wrong but": "Nicole: I'm not sure what's wrong but",
+    "Nicole: Let me know[..][++][.] when[.] you want to[..][++][...] practice again?[.]": "Nicole: Let me know[..][++][.] when[.] you want to[..][++][...] practice again?[.]",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

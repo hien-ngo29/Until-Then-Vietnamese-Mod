@@ -1,0 +1,17 @@
+{
+    " frown": " frown",
+    "\"": "\"",
+    "$ F ": "$ F ",
+    "$ emit chat_finished": "$ emit chat_finished",
+    "$ online -Paolo": "$ online -Paolo",
+    "$ pass": "$ pass",
+    "$ thought \"": "$ thought \"",
+    "$ wait 0": "$ wait 0",
+    "$ wait 1": "$ wait 1",
+    "Mark: Dad": "Mark: Dad",
+    "Mark: We need to talk. About mom.": "Mark: We need to talk. About mom.",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\", \"Paolo\": \"PaoloBorja\"  }": "characters: { \"Mark\": \"MarkBorja\", \"Paolo\": \"PaoloBorja\"  }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

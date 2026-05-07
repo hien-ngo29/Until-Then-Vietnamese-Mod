@@ -1,0 +1,9 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ set_time 1420403564": "$ set_time 1420403564",
+    "$ start_skit --wait Nightmare": "$ start_skit --wait Nightmare",
+    "characters: { \"Louise\": \"LouiseOrdunia\" }": "characters: { \"Louise\": \"LouiseOrdunia\" }",
+    "player: \"Louise\"": "player: \"Louise\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,23 @@
+{
+    " false": " false",
+    " smirk": " smirk",
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ F ": "$ F ",
+    "$ F \"": "$ F \"",
+    "$ fade_in": "$ fade_in",
+    "$ fade_out 2": "$ fade_out 2",
+    "$ flip_h ": "$ flip_h ",
+    "$ pass": "$ pass",
+    "$ start --wait \"8.4e.Hallway.1d\"": "$ start --wait \"8.4e.Hallway.1d\"",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 2": "$ wait 2",
+    "$ wait_for talk": "$ wait_for talk",
+    "KateCorpuz": "KateCorpuz",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

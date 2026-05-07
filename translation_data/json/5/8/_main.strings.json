@@ -1,0 +1,18 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ play_sound WakeUp": "$ play_sound WakeUp",
+    "$ start_skit --wait Bedroom": "$ start_skit --wait Bedroom",
+    "$ start_skit --wait Breakdown": "$ start_skit --wait Breakdown",
+    "$ start_skit --wait Bus": "$ start_skit --wait Bus",
+    "$ start_skit --wait Hallway": "$ start_skit --wait Hallway",
+    "$ start_skit --wait HouseOutside": "$ start_skit --wait HouseOutside",
+    "$ start_skit --wait ParentsRoom": "$ start_skit --wait ParentsRoom",
+    "$ start_skit --wait Station": "$ start_skit --wait Station",
+    "$ start_skit --wait Train": "$ start_skit --wait Train",
+    "$ stop_sound WakeUp": "$ stop_sound WakeUp",
+    "$ wait 3": "$ wait 3",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

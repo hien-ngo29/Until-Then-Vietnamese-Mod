@@ -1,0 +1,12 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Explore": "$ start_skit --wait Explore",
+    "$ start_skit --wait Hallway": "$ start_skit --wait Hallway",
+    "$ start_skit --wait Kitchen": "$ start_skit --wait Kitchen",
+    "$ start_skit --wait SofaPhone": "$ start_skit --wait SofaPhone",
+    "$ start_skit --wait TV": "$ start_skit --wait TV",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

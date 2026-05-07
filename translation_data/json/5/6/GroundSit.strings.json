@@ -1,0 +1,22 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D MarkBorja state hide": "$ D MarkBorja state hide",
+    "$ D NicoleLacsamana state hide": "$ D NicoleLacsamana state hide",
+    "$ D Swing state hide": "$ D Swing state hide",
+    "$ D scene activity swing": "$ D scene activity swing",
+    "$ D scene lighting sunset": "$ D scene lighting sunset",
+    "$ F \"": "$ F \"",
+    "$ fade_out 3": "$ fade_out 3",
+    "$ pass": "$ pass",
+    "$ start --wait \"5.6.GroundSit.1d\"": "$ start --wait \"5.6.GroundSit.1d\"",
+    "$ to CamSnap": "$ to CamSnap",
+    "$ wait 2.5": "$ wait 2.5",
+    "MarkBorja": "MarkBorja",
+    "NicoleLacsamana": "NicoleLacsamana",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

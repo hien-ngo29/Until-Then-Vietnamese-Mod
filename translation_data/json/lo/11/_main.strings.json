@@ -1,0 +1,16 @@
+{
+    "$ next_scene --no-load-screen": "$ next_scene --no-load-screen",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Climax": "$ start_skit --wait Climax",
+    "$ start_skit --wait Intro": "$ start_skit --wait Intro",
+    "$ start_skit --wait LetGo": "$ start_skit --wait LetGo",
+    "$ start_skit --wait Piano": "$ start_skit --wait Piano",
+    "$ start_skit --wait PreClimax": "$ start_skit --wait PreClimax",
+    "$ start_skit --wait Ripples": "$ start_skit --wait Ripples",
+    "$ start_skit --wait Search": "$ start_skit --wait Search",
+    "$ start_skit --wait UntilThen": "$ start_skit --wait UntilThen",
+    "$ wait 4": "$ wait 4",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

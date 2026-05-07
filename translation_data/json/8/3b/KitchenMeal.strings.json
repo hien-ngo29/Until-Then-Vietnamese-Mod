@@ -1,0 +1,21 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene envi house": "$ D scene envi house",
+    "$ D scene hide_phone false": "$ D scene hide_phone false",
+    "$ D scene part kitchen_meal": "$ D scene part kitchen_meal",
+    "$ F \"": "$ F \"",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ play_sound AfterDinner": "$ play_sound AfterDinner",
+    "$ start --wait \"8.3b.KitchenMeal.1d\"": "$ start --wait \"8.3b.KitchenMeal.1d\"",
+    "$ wait 1": "$ wait 1",
+    "$ wait 4.5": "$ wait 4.5",
+    "CathyPortillo": "CathyPortillo",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

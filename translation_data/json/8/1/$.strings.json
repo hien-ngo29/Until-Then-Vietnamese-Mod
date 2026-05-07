@@ -1,0 +1,20 @@
+{
+    "$ fade_in": "$ fade_in",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ to CamBinoculars": "$ to CamBinoculars",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 1": "$ wait 1",
+    "$ wait_for exit_binoculars": "$ wait_for exit_binoculars",
+    ":: A laser pointing to an open box...": ":: A laser pointing to an open box...",
+    ":: Er[.], I should probably say hi.": ":: Er[.], I should probably say hi.",
+    ":: Louise's coffee cup...": ":: Louise's coffee cup...",
+    ":: No, kid. That won't burn it.": ":: No, kid. That won't burn it.",
+    ":: Oh boy. Louise is here.": ":: Oh boy. Louise is here.",
+    ":: Why am I looking at it?": ":: Why am I looking at it?",
+    ":: Yep. We are on a mountain, pretty much.": ":: Yep. We are on a mountain, pretty much.",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

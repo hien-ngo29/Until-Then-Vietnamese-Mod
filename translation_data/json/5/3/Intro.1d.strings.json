@@ -1,0 +1,22 @@
+{
+    " look_at X": " look_at X",
+    " look_at r": " look_at r",
+    "$ D ": "$ D ",
+    "$ pass": "$ pass",
+    "$ play CamSide_dof_shift": "$ play CamSide_dof_shift",
+    "$ play Mark_walk": "$ play Mark_walk",
+    "$ play_sound WoodenChairScrape": "$ play_sound WoodenChairScrape",
+    "$ to CamSide": "$ to CamSide",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait 1": "$ wait 1",
+    "$ wait 2": "$ wait 2",
+    "Louise: About what happened to our classmate?": "Louise: About what happened to our classmate?",
+    "Louise: You must have heard about it, right?": "Louise: You must have heard about it, right?",
+    "Mark: Jessica.": "Mark: Jessica.",
+    "Mark: Louise...": "Mark: Louise...",
+    "Mark: Yeah...": "Mark: Yeah...",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\", \"Louise\": \"LouiseOrdunia\" }": "characters: { \"Mark\": \"MarkBorja\", \"Louise\": \"LouiseOrdunia\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

@@ -1,0 +1,11 @@
+{
+    "$ F RidelGonzales default": "$ F RidelGonzales default",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ to CamIntro": "$ to CamIntro",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "$ wait_for intro_finished": "$ wait_for intro_finished",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

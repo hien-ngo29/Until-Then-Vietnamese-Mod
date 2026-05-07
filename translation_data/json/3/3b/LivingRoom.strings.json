@@ -1,0 +1,12 @@
+{
+    "$ D scene envi house": "$ D scene envi house",
+    "$ D scene hide_phone false": "$ D scene hide_phone false",
+    "$ D scene light_living_room false": "$ D scene light_living_room false",
+    "$ D scene part living_room": "$ D scene part living_room",
+    "$ pass": "$ pass",
+    "$ start --wait \"3.3b.LivingRoom.1d\"": "$ start --wait \"3.3b.LivingRoom.1d\"",
+    "$ wait_for _scene_faded_in": "$ wait_for _scene_faded_in",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

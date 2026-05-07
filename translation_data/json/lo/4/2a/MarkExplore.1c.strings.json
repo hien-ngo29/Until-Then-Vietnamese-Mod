@@ -1,0 +1,16 @@
+{
+    "$ ": "$ ",
+    "$ clear_phone": "$ clear_phone",
+    "$ end_instant": "$ end_instant",
+    "$ pass": "$ pass",
+    "$ start_instant": "$ start_instant",
+    "Cathy: don't get lost ok": "Cathy: don't get lost ok",
+    "Cathy: heyo are u here": "Cathy: heyo are u here",
+    "Cathy: im on the fourth floor": "Cathy: im on the fourth floor",
+    "Cathy: yeah they sure have been busy!": "Cathy: yeah they sure have been busy!",
+    "Mark: Okay I'm heading up, just at reception": "Mark: Okay I'm heading up, just at reception",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

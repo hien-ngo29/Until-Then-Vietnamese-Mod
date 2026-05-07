@@ -1,0 +1,18 @@
+{
+    "$ D scene envi hospital": "$ D scene envi hospital",
+    "$ D scene hospital_triggers 0": "$ D scene hospital_triggers 0",
+    "$ D scene hospital_triggers 1": "$ D scene hospital_triggers 1",
+    "$ pass": "$ pass",
+    "$ play_sound MusicGnignol": "$ play_sound MusicGnignol",
+    "$ start_short Hospital_MarkIntro": "$ start_short Hospital_MarkIntro",
+    "$ start_short Hospital_MarkIntro2": "$ start_short Hospital_MarkIntro2",
+    "$ start_short Hospital_NicoleIntro": "$ start_short Hospital_NicoleIntro",
+    "$ start_short Hospital_NicoleIntro2": "$ start_short Hospital_NicoleIntro2",
+    "$ to CamElevator": "$ to CamElevator",
+    "$ wait 2": "$ wait 2",
+    "$ wait_for embroidery_interacted": "$ wait_for embroidery_interacted",
+    "$ wait_for hospital_done": "$ wait_for hospital_done",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

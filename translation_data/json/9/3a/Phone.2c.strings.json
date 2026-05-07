@@ -1,0 +1,10 @@
+{
+    "$ emit_local chat_2c_finished": "$ emit_local chat_2c_finished",
+    "$ pass": "$ pass",
+    "Nicole: Merry Christmas, Mark ": "Nicole: Merry Christmas, Mark ",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "notify: 0": "notify: 0",
+    "notify: 3": "notify: 3",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

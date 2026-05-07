@@ -1,0 +1,19 @@
+{
+    "$ ": "$ ",
+    "$ D scene got_scrapbook ": "$ D scene got_scrapbook ",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait SecA": "$ start_skit --wait SecA",
+    "$ start_skit --wait SecB": "$ start_skit --wait SecB",
+    "$ start_skit --wait SecC": "$ start_skit --wait SecC",
+    "$ start_skit --wait SecD": "$ start_skit --wait SecD",
+    "$ start_skit --wait SecE": "$ start_skit --wait SecE",
+    "$ start_skit --wait SecF": "$ start_skit --wait SecF",
+    "$ start_skit --wait SecG": "$ start_skit --wait SecG",
+    "$ start_skit --wait SecH": "$ start_skit --wait SecH",
+    "NOP": "NOP",
+    "ch10sc7/got_scrapbook": "ch10sc7/got_scrapbook",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

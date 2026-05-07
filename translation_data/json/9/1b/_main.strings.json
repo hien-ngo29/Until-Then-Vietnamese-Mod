@@ -1,0 +1,10 @@
+{
+    "$ next_scene --no-load-screen": "$ next_scene --no-load-screen",
+    "$ pass": "$ pass",
+    "$ start --wait \"9.1b.1d\"": "$ start --wait \"9.1b.1d\"",
+    "$ to CamIntroMark": "$ to CamIntroMark",
+    "$ wait 1": "$ wait 1",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,15 @@
+{
+    "$ D scene allow_goto_hallway false": "$ D scene allow_goto_hallway false",
+    "$ D scene garbage_visible true": "$ D scene garbage_visible true",
+    "$ D scene part FreeExplore": "$ D scene part FreeExplore",
+    "$ fade_in": "$ fade_in",
+    "$ pass": "$ pass",
+    "$ play_sound MonoblocScreech": "$ play_sound MonoblocScreech",
+    "$ start_short FreeExplore_start": "$ start_short FreeExplore_start",
+    "$ switch_sound MusicMain Main": "$ switch_sound MusicMain Main",
+    "$ to MainKitchen": "$ to MainKitchen",
+    "$ wait_for sofa_interacted": "$ wait_for sofa_interacted",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

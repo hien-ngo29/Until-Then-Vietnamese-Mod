@@ -1,0 +1,8 @@
+{
+    "$ pass": "$ pass",
+    "$ start_short Mark3_dialogue_1": "$ start_short Mark3_dialogue_1",
+    "$ to CamMain": "$ to CamMain",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

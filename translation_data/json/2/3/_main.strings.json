@@ -1,0 +1,12 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ set_time 1416576203": "$ set_time 1416576203",
+    "$ start_skit --wait Intro": "$ start_skit --wait Intro",
+    "$ start_skit --wait Meeting": "$ start_skit --wait Meeting",
+    "$ start_skit --wait Quarrel": "$ start_skit --wait Quarrel",
+    "$ start_skit --wait Search": "$ start_skit --wait Search",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

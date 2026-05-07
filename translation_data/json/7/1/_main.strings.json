@@ -1,0 +1,14 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait ApproachKate": "$ start_skit --wait ApproachKate",
+    "$ start_skit --wait CathyEnter": "$ start_skit --wait CathyEnter",
+    "$ start_skit --wait KateEnter": "$ start_skit --wait KateEnter",
+    "$ start_skit --wait LouiseEnter": "$ start_skit --wait LouiseEnter",
+    "$ start_skit --wait MarkDesk": "$ start_skit --wait MarkDesk",
+    "$ start_skit --wait MarkEnter": "$ start_skit --wait MarkEnter",
+    "$ start_skit --wait RidelEnter": "$ start_skit --wait RidelEnter",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

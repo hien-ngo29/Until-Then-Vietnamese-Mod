@@ -1,0 +1,22 @@
+{
+    " is_butterfly false": " is_butterfly false",
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D ": "$ D ",
+    "$ D \"": "$ D \"",
+    "$ D scene world_visible true": "$ D scene world_visible true",
+    "$ F \"": "$ F \"",
+    "$ pass": "$ pass",
+    "$ play --no-wait sky_butterfly_intensify": "$ play --no-wait sky_butterfly_intensify",
+    "$ play_sound Acceptance": "$ play_sound Acceptance",
+    "$ start --wait \"lo.11.Climax.1d\"": "$ start --wait \"lo.11.Climax.1d\"",
+    "$ to CamMarkF": "$ to CamMarkF",
+    "JakeCorpuz": "JakeCorpuz",
+    "MarkBorja": "MarkBorja",
+    "MarkMom": "MarkMom",
+    "NicoleLacsamana": "NicoleLacsamana",
+    "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Nicole\": \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

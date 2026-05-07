@@ -1,0 +1,9 @@
+{
+    "$ ": "$ ",
+    "$ pass": "$ pass",
+    "$ start --wait \"5.7.Intro.1d\"": "$ start --wait \"5.7.Intro.1d\"",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,15 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Arrival": "$ start_skit --wait Arrival",
+    "$ start_skit --wait Bike": "$ start_skit --wait Bike",
+    "$ start_skit --wait Cliffside": "$ start_skit --wait Cliffside",
+    "$ start_skit --wait GroundSit": "$ start_skit --wait GroundSit",
+    "$ start_skit --wait MarkSwing": "$ start_skit --wait MarkSwing",
+    "$ start_skit --wait Montage": "$ start_skit --wait Montage",
+    "$ start_skit --wait NicoleSwing": "$ start_skit --wait NicoleSwing",
+    "$ start_skit --wait SwingTogether": "$ start_skit --wait SwingTogether",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

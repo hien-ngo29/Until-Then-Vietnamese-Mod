@@ -1,0 +1,9 @@
+{
+    "$ pass": "$ pass",
+    "$ start_short NE_dialogue_1": "$ start_short NE_dialogue_1",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait 5": "$ wait 5",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,14 @@
+{
+    "$ F %Mark default": "$ F %Mark default",
+    "$ F %Mark doubtful": "$ F %Mark doubtful",
+    "$ pass": "$ pass",
+    ":: I didn't know he was interested in this.": ":: I didn't know he was interested in this.",
+    ":: This is my last hope.": ":: This is my last hope.",
+    ":: What is Junjun doing here?": ":: What is Junjun doing here?",
+    ":: What?!": ":: What?!",
+    "Elise: Go ahead!": "Elise: Go ahead!",
+    "Elise: Use the keyboard!": "Elise: Use the keyboard!",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Nicole\": \"NicoleLacsamana\", \"Justin\": \"Justin\", \"Sam\": \"Sam\", \"Elise\": \"Elise\", \"Carlo\": \"Carlo\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Nicole\": \"NicoleLacsamana\", \"Justin\": \"Justin\", \"Sam\": \"Sam\", \"Elise\": \"Elise\", \"Carlo\": \"Carlo\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

@@ -1,0 +1,14 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ set_rain_intensity 0": "$ set_rain_intensity 0",
+    "$ start_skit --wait Concert": "$ start_skit --wait Concert",
+    "$ start_skit --wait Intro": "$ start_skit --wait Intro",
+    "$ start_skit --wait Outside": "$ start_skit --wait Outside",
+    "$ start_skit --wait PreEvent": "$ start_skit --wait PreEvent",
+    "$ start_skit --wait Stage": "$ start_skit --wait Stage",
+    "$ wait 2": "$ wait 2",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

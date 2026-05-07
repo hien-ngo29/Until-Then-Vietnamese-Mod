@@ -1,0 +1,17 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ F \"": "$ F \"",
+    "$ pass": "$ pass",
+    "$ play --no-wait CamWindow_dof_shift_to_chars": "$ play --no-wait CamWindow_dof_shift_to_chars",
+    "$ start --wait \"5.5.Victims.1d\"": "$ start --wait \"5.5.Victims.1d\"",
+    "$ to CamWindow": "$ to CamWindow",
+    "MarkBorja": "MarkBorja",
+    "NicoleLacsamana": "NicoleLacsamana",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "duration: 0.1": "duration: 0.1",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,11 @@
+{
+    "$ F NpcMother positive": "$ F NpcMother positive",
+    "$ pass": "$ pass",
+    "$ play_sound TV": "$ play_sound TV",
+    "$ wait 0.5": "$ wait 0.5",
+    "NpcAnnoyingSon: [shake rate=32 level=8]Bang bang bang![/shake]": "NpcAnnoyingSon: [shake rate=32 level=8]Bang bang bang![/shake]",
+    "NpcMother: [wave]Quiet, son.[/wave]": "NpcMother: [wave]Quiet, son.[/wave]",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"dialogue\"": "type: \"dialogue\""
+}

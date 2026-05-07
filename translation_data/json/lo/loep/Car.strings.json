@@ -1,0 +1,10 @@
+{
+    "$ D scene envi Car": "$ D scene envi Car",
+    "$ fade_in 2": "$ fade_in 2",
+    "$ pass": "$ pass",
+    "$ play simulated_phonecalling_n": "$ play simulated_phonecalling_n",
+    "$ to CamMainCar": "$ to CamMainCar",
+    "characters: { \"Mark\": \"MarkBorja\"}": "characters: { \"Mark\": \"MarkBorja\"}",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

@@ -1,0 +1,23 @@
+{
+    "$ ": "$ ",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Explore": "$ start_skit --wait Explore",
+    "$ start_skit --wait FlashA": "$ start_skit --wait FlashA",
+    "$ start_skit --wait FlashB": "$ start_skit --wait FlashB",
+    "$ start_skit --wait FlashC1": "$ start_skit --wait FlashC1",
+    "$ start_skit --wait FlashC2": "$ start_skit --wait FlashC2",
+    "$ start_skit --wait Glitch1": "$ start_skit --wait Glitch1",
+    "$ start_skit --wait Glitch2": "$ start_skit --wait Glitch2",
+    "$ start_skit --wait Glitch3": "$ start_skit --wait Glitch3",
+    "$ start_skit --wait Intro": "$ start_skit --wait Intro",
+    "$ start_skit --wait Scrapbook": "$ start_skit --wait Scrapbook",
+    "$ stop_sound StrangeTense": "$ stop_sound StrangeTense",
+    "$ wait ": "$ wait ",
+    "$ wait 3": "$ wait 3",
+    "NOP": "NOP",
+    "ch10sc7/got_scrapbook": "ch10sc7/got_scrapbook",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

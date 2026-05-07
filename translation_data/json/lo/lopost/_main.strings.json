@@ -1,0 +1,9 @@
+{
+    "$ go_to_main_menu": "$ go_to_main_menu",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Grave": "$ start_skit --wait Grave",
+    "$ start_skit --wait Wait": "$ start_skit --wait Wait",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

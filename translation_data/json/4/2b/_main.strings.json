@@ -1,0 +1,13 @@
+{
+    "$ D scene lighting default": "$ D scene lighting default",
+    "$ D scene raining false": "$ D scene raining false",
+    "$ enable_vehicle true": "$ enable_vehicle true",
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ play RESET": "$ play RESET",
+    "$ start --wait \"4.2b.1d\"": "$ start --wait \"4.2b.1d\"",
+    "$ start --wait \"4.2b.2d\"": "$ start --wait \"4.2b.2d\"",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

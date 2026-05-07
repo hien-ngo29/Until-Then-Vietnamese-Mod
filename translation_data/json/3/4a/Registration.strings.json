@@ -1,0 +1,12 @@
+{
+    "$ D scene part free_roam_2": "$ D scene part free_roam_2",
+    "$ fade_out": "$ fade_out",
+    "$ pass": "$ pass",
+    "$ start --wait \"3.4a.Registration.1d\"": "$ start --wait \"3.4a.Registration.1d\"",
+    "$ to CamFollow2": "$ to CamFollow2",
+    "$ wait 0.5": "$ wait 0.5",
+    "$ wait_for keyboard": "$ wait_for keyboard",
+    "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Nicole\" : \"NicoleLacsamana\" }": "characters: { \"Mark\": \"MarkBorja\", \"Cathy\": \"CathyPortillo\", \"Nicole\" : \"NicoleLacsamana\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

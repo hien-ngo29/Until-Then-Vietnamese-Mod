@@ -1,0 +1,12 @@
+{
+    "$ next_scene": "$ next_scene",
+    "$ pass": "$ pass",
+    "$ start_skit --wait Rooftop": "$ start_skit --wait Rooftop",
+    "$ start_skit --wait Room1": "$ start_skit --wait Room1",
+    "$ start_skit --wait Room2": "$ start_skit --wait Room2",
+    "$ start_skit --wait School1": "$ start_skit --wait School1",
+    "$ start_skit --wait School2": "$ start_skit --wait School2",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

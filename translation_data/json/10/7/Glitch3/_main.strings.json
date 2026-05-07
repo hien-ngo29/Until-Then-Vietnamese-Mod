@@ -1,0 +1,17 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene envi evac_center": "$ D scene envi evac_center",
+    "$ D scene glitch 0.5": "$ D scene glitch 0.5",
+    "$ D scene show_3d_scrapbook false": "$ D scene show_3d_scrapbook false",
+    "$ Fc \"": "$ Fc \"",
+    "$ fade_out 0": "$ fade_out 0",
+    "$ pass": "$ pass",
+    "$ start --wait \"10.7.Glitch3.1d\"": "$ start --wait \"10.7.Glitch3.1d\"",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

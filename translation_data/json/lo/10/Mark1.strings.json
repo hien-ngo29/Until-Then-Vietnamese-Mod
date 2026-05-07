@@ -1,0 +1,11 @@
+{
+    "$ pass": "$ pass",
+    "$ play M1_nicole_dialogue": "$ play M1_nicole_dialogue",
+    "$ start_short Mark1_dialogue_1": "$ start_short Mark1_dialogue_1",
+    "$ start_short Mark1_dialogue_2": "$ start_short Mark1_dialogue_2",
+    "$ to CamMain": "$ to CamMain",
+    "$ wait_for nicole_dialogue": "$ wait_for nicole_dialogue",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

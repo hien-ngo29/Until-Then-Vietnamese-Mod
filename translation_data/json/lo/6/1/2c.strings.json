@@ -1,0 +1,17 @@
+{
+    "$ ": "$ ",
+    "$ pass": "$ pass",
+    "$ set_online": "$ set_online",
+    "$ turn_on louise_pm_end": "$ turn_on louise_pm_end",
+    "$ wait 4": "$ wait 4",
+    "I'll be late today": "I'll be late today",
+    "Is there a book report?": "Is there a book report?",
+    "Mark: Hey [:Louise]Prez": "Mark: Hey [:Louise]Prez",
+    "Mark: Sorry but I'll be late today": "Mark: Sorry but I'll be late today",
+    "Mark: Sorry for asking this but is there a book report today?": "Mark: Sorry for asking this but is there a book report today?",
+    "Mark: [:Uhh][:Hello?]Louise?": "Mark: [:Uhh][:Hello?]Louise?",
+    "NOP": "NOP",
+    "characters: { \"Mark\": \"MarkBorja\", \"Louise\": \"LouiseOrdunia\" }": "characters: { \"Mark\": \"MarkBorja\", \"Louise\": \"LouiseOrdunia\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"chat\"": "type: \"chat\""
+}

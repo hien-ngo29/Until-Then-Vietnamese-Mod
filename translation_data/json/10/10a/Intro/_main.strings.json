@@ -1,0 +1,18 @@
+{
+    "\"": "\"",
+    "\" look_at X": "\" look_at X",
+    "\" with X": "\" with X",
+    "$ D \"": "$ D \"",
+    "$ D scene envi Outside": "$ D scene envi Outside",
+    "$ F \"": "$ F \"",
+    "$ pass": "$ pass",
+    "$ play_sound MetalDoors": "$ play_sound MetalDoors",
+    "$ play_sound PromDiscoMusic": "$ play_sound PromDiscoMusic",
+    "$ start --wait \"10.10a.Intro.1d\"": "$ start --wait \"10.10a.Intro.1d\"",
+    "$ wait 1": "$ wait 1",
+    "LouiseOrdunia": "LouiseOrdunia",
+    "MarkBorja": "MarkBorja",
+    "characters: { \"Mark\": \"MarkBorja\" }": "characters: { \"Mark\": \"MarkBorja\" }",
+    "player: \"Mark\"": "player: \"Mark\"",
+    "type: \"scene\"": "type: \"scene\""
+}

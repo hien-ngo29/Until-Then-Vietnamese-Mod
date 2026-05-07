@@ -1,0 +1,19 @@
+{
+    "$ D %Kate look_at d": "$ D %Kate look_at d",
+    "$ D scene area \"1F\"": "$ D scene area \"1F\"",
+    "$ D scene part NicoleExplore": "$ D scene part NicoleExplore",
+    "$ F %Kate default": "$ F %Kate default",
+    "$ F %Nicole neutral": "$ F %Nicole neutral",
+    "$ F %Nicole surprised": "$ F %Nicole surprised",
+    "$ fade_in": "$ fade_in",
+    "$ pass": "$ pass",
+    "$ pop_focus F0": "$ pop_focus F0",
+    "$ push_focus F0": "$ push_focus F0",
+    "$ start_short switch_to_nicole": "$ start_short switch_to_nicole",
+    "$ to CamFollowLobby": "$ to CamFollowLobby",
+    "$ wait 1": "$ wait 1",
+    "$ wait_for approach_kate": "$ wait_for approach_kate",
+    "characters: { \"Nicole\": \"NicoleLacsamana\", \"Kate\": \"KateCorpuz\" }": "characters: { \"Nicole\": \"NicoleLacsamana\", \"Kate\": \"KateCorpuz\" }",
+    "player: \"Nicole\"": "player: \"Nicole\"",
+    "type: \"scene\"": "type: \"scene\""
+}

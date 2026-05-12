@@ -1,8 +1,17 @@
-from openpyxl.styles import PatternFill
+# Usage: python3 json2sheet.py
+# Script that helps convert xlsx data in sheet directory to json files in json directory. Those files would be compiled back to .inkb
+
+from openpyxl.styles import PatternFill, Font, Alignment
 from openpyxl.formatting.rule import CellIsRule
 from openpyxl.styles import Border, Side
 from pathlib import Path
 import pandas, json, sys
+
+grey = PatternFill(start_color="808080", end_color="808080", fill_type="solid")
+green = PatternFill(start_color="00FF00", end_color="00FF00", fill_type="solid")
+yellow = PatternFill(start_color="FFFF00", end_color="FFFF00", fill_type="solid")
+red = PatternFill(start_color="FF0000", end_color="FF0000", fill_type="solid")
+blue = PatternFill(start_color="0000FF", end_color="0000FF", fill_type="solid")
 
 NON_TRANSLATABLE_EXACT = {
     "::",
@@ -37,6 +46,7 @@ def write_xlsx(jsons_dir: Path, output_dir: Path=Path("sheet")):
     worksheet = workbook.create_sheet("UntilThen")
     
     write_headers_to_sheet(excel_writer, worksheet)
+    set_xlsx_color_format(excel_writer)
 
     prev_dataframe = None
     sum_row = 0
@@ -62,9 +72,9 @@ def write_xlsx(jsons_dir: Path, output_dir: Path=Path("sheet")):
         prev_dataframe = dataframe
         
         update_loading_bar(float(sum_row * 100 / 45284))
-    
-    set_xlsx_color_format(excel_writer)
+
     apply_all_borders(worksheet)
+    worksheet.auto_filter.ref = worksheet.dimensions
     
     print("Done! Dumped " + str(sum_row) + " lines")
 
@@ -80,6 +90,11 @@ def write_headers_to_sheet(excel_writer, worksheet):
     worksheet["B1"] = "VĂN BẢN DỊCH"
     worksheet["C1"] = "CHẤT LƯỢNG"
     worksheet["D1"] = "NOTE"
+    
+    for cell in worksheet[1]:
+        cell.font = Font(bold=True)
+        cell.fill = blue
+        cell.alignment = Alignment(horizontal="center")
 
 def apply_all_borders(worksheet):
     thin = Side(style="thin")
@@ -130,11 +145,6 @@ def update_loading_bar(percent, width=30):
 def set_xlsx_color_format(excel_writer):
     worksheet = excel_writer.sheets["UntilThen"]
 
-    grey = PatternFill(start_color="808080", end_color="808080", fill_type="solid")
-    green = PatternFill(start_color="00FF00", end_color="00FF00", fill_type="solid")
-    yellow = PatternFill(start_color="FFFF00", end_color="FFFF00", fill_type="solid")
-    red = PatternFill(start_color="FF0000", end_color="FF0000", fill_type="solid")
-
     column_range = "C2:C45284"
 
     worksheet.conditional_formatting.add(
@@ -158,7 +168,6 @@ def set_xlsx_color_format(excel_writer):
     )
 
 all_filenames = []
-file = open("test.txt", "w")
 def get_all_json_filenames(jsons_dir: Path):
     for filepath in jsons_dir.iterdir():
         if filepath.is_file():
@@ -172,4 +181,3 @@ def get_dict_data_from_json_file(json_path: Path):
 
 get_all_json_filenames(Path("json"))
 write_xlsx(jsons_dir=Path("json"))
-file.close()

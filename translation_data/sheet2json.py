@@ -15,7 +15,7 @@ def load_dataframe_from_sheet():
     sheet_path = Path("./sheet")
     sheet_files = [f for f in sheet_path.iterdir() if f.is_file()]
 
-    dataframe = pandas.read_excel(sheet_files[0])
+    dataframe = pandas.read_excel(sheet_files[0], engine="openpyxl")
 
 def get_dict_data_from_json_file(json_path: Path):
     file = open(str(json_path), "r")

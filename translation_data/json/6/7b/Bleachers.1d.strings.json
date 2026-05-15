@@ -149,7 +149,7 @@
     "Mark: Y-yeah, but you know...": "Mark: Y-yeah, but you know...",
     "Mark: You think she's gonna win?": "Mark: You think she's gonna win?",
     "Mark: [shake rate=24 level=6]No, don't cause a scene![/shake]": "Mark: [shake rate=24 level=6]No, don't cause a scene![/shake]",
-    "NULL": "NULL",
+    "NaN": NaN,
     "Something's missing": "Something's missing",
     "Sorry we're lame": "Sorry we're lame",
     "Where are her friends?": "Where are her friends?",

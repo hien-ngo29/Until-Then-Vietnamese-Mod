@@ -49,5 +49,6 @@ def get_ranged_dict_data_from_data_frame(start, end):
     
     return dict_result
 
-load_dataframe_from_sheet()
-write_json_files_in_recursive_dir(Path("json"))
+if __name__ == "__main__": 
+    load_dataframe_from_sheet()
+    write_json_files_in_recursive_dir(Path("json"))
